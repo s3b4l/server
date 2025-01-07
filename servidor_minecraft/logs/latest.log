@@ -180,3 +180,17 @@
 [07Jan2025 00:40:52.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3B4L joined the game
 [07Jan2025 00:40:52.823] [Server thread/INFO] [Jade/]: Syncing config to S3B4L (dcb252fe-f1d3-3d3c-97fb-66b811fdfea0)
 [07Jan2025 00:44:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3B4L has made the advancement [Monster Hunter]
+[07Jan2025 00:50:28.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: S3B4L lost connection: Disconnected
+[07Jan2025 00:50:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3B4L left the game
+[07Jan2025 00:54:12.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucianotomasKN[/100.115.35.61:55041] logged in with entity id 1645 at (-5.5, 72.0, 9.5)
+[07Jan2025 00:54:12.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to lucianotomasKN
+[07Jan2025 00:54:12.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to lucianotomasKN
+[07Jan2025 00:54:12.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to lucianotomasKN
+[07Jan2025 00:54:12.775] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to lucianotomasKN
+[07Jan2025 00:54:12.779] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to lucianotomasKN
+[07Jan2025 00:54:12.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to lucianotomasKN
+[07Jan2025 00:54:12.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to lucianotomasKN
+[07Jan2025 00:54:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucianotomasKN joined the game
+[07Jan2025 00:54:12.841] [Server thread/INFO] [Jade/]: Syncing config to lucianotomasKN (09e82129-6b10-34a3-b96d-9dbaead2f9b6)
+[07Jan2025 00:58:35.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucianotomasKN lost connection: Disconnected
+[07Jan2025 00:58:35.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucianotomasKN left the game
