@@ -31,6 +31,7 @@
       "minecraft:river": "2025-02-02 21:13:20 +0000",
       "minecraft:stony_shore": "2025-02-02 20:28:32 +0000",
       "minecraft:forest": "2025-02-02 20:36:07 +0000",
+      "minecraft:ocean": "2025-02-02 22:16:34 +0000",
       "minecraft:deep_dark": "2025-02-02 22:01:38 +0000",
       "minecraft:plains": "2025-02-02 21:49:01 +0000"
     },
@@ -552,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-02 22:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-02 22:05:38 +0000"
@@ -862,9 +869,16 @@
     "criteria": {
       "field": "2025-02-02 21:59:58 +0000",
       "coniferous_forest": "2025-02-02 21:24:07 +0000",
-      "fir_clearing": "2025-02-02 21:40:05 +0000"
+      "fir_clearing": "2025-02-02 21:40:05 +0000",
+      "prairie": "2025-02-02 22:17:08 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-02 22:12:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
@@ -892,6 +906,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-02 22:15:48 +0000",
       "minecraft:skeleton": "2025-02-02 21:04:13 +0000",
       "minecraft:spider": "2025-02-02 21:00:19 +0000",
       "minecraft:enderman": "2025-02-02 20:42:28 +0000",
@@ -1013,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-02-02 20:49:36 +0000"
@@ -1115,9 +1136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-02-02 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
     },
     "done": true
   },
@@ -1283,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-02 20:50:01 +0000"
@@ -1385,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-02 22:07:20 +0000"
@@ -1406,6 +1451,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
     },
     "done": true
   },
@@ -1439,6 +1490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-02-02 21:00:20 +0000"
@@ -1448,6 +1505,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-02-02 21:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
     },
     "done": true
   },
@@ -1645,6 +1708,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-02 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:17:29 +0000"
     },
     "done": true
   },
