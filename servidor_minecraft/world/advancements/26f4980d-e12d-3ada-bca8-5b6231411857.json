@@ -277,5 +277,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-02 01:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-02-02 01:12:37 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
