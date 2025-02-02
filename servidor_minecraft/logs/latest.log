@@ -321,3 +321,39 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Feb2025 20:38:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
 [02Feb2025 20:38:26.393] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
 [02Feb2025 20:38:27.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=74, z=-9} BlockPos{x=-16, y=75, z=-8}
+[02Feb2025 20:38:53.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hola:) lost connection: Disconnected
+[02Feb2025 20:38:53.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) left the game
+[02Feb2025 20:39:33.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
+[02Feb2025 20:39:33.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
+[02Feb2025 20:39:47.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hola:)[/100.72.34.64:58174] logged in with entity id 10288 at (-11.218926599969487, 76.0, -14.353272705349648)
+[02Feb2025 20:39:47.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hola:)
+[02Feb2025 20:39:47.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hola:)
+[02Feb2025 20:39:47.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hola:)
+[02Feb2025 20:39:47.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hola:)
+[02Feb2025 20:39:47.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hola:)
+[02Feb2025 20:39:47.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hola:)
+[02Feb2025 20:39:47.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hola:)
+[02Feb2025 20:39:47.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) joined the game
+[02Feb2025 20:39:47.132] [Server thread/INFO] [Jade/]: Syncing config to hola:) (6d3bd411-a6d1-3aeb-a1b3-78458712423b)
+[02Feb2025 20:40:17.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=72, z=-35} BlockPos{x=-34, y=75, z=-14}
+[02Feb2025 20:40:23.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=72, z=-35} BlockPos{x=-27, y=78, z=4}
+[02Feb2025 20:41:37.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=73, z=-24} BlockPos{x=-18, y=74, z=5}
+[02Feb2025 20:41:53.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Monster Hunter]
+[02Feb2025 20:43:13.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> hay q esperar q se haga de dia
+[02Feb2025 20:43:17.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hola:)> dame un poco de comida pls
+[02Feb2025 20:44:15.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> me das la comida q qda?
+[02Feb2025 20:44:27.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hola:)> como me cambio el personaje
+[02Feb2025 20:44:28.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv was slain by Zombie
+[02Feb2025 20:44:39.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> la skin?
+[02Feb2025 20:45:04.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maaxz_dou[/100.99.176.124:64813] logged in with entity id 11874 at (-28.5, 82.0, 4.5)
+[02Feb2025 20:45:04.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maaxz_dou
+[02Feb2025 20:45:04.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maaxz_dou
+[02Feb2025 20:45:04.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maaxz_dou
+[02Feb2025 20:45:04.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maaxz_dou
+[02Feb2025 20:45:04.936] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maaxz_dou
+[02Feb2025 20:45:04.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maaxz_dou
+[02Feb2025 20:45:04.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maaxz_dou
+[02Feb2025 20:45:04.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou joined the game
+[02Feb2025 20:45:05.001] [Server thread/INFO] [Jade/]: Syncing config to Maaxz_dou (b29d52d7-4387-3f36-b2f7-5374273ee356)
+[02Feb2025 20:45:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Enderman
+[02Feb2025 20:48:33.321] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dd29f8b[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:53526) lost connection: Disconnected
