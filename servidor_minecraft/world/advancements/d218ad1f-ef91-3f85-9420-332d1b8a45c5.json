@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-02 21:51:22 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 22:02:22 +0000"
@@ -260,6 +272,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
     },
     "done": true
   },
@@ -278,6 +296,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-02 22:30:34 +0000"
     },
     "done": true
   },
@@ -338,6 +362,12 @@
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
     },
     "done": true
   },
@@ -437,9 +467,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-02 22:30:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-02 20:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-02 22:32:46 +0000"
     },
     "done": true
   },
@@ -556,6 +598,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-02 20:36:25 +0000",
+      "minecraft:spider": "2025-02-02 22:30:33 +0000",
       "minecraft:silverfish": "2025-02-02 21:49:10 +0000",
       "minecraft:zombie": "2025-02-02 20:19:22 +0000",
       "minecraft:zombie_villager": "2025-02-02 21:25:38 +0000"
@@ -628,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-02 22:30:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-02 20:36:35 +0000"
@@ -679,6 +728,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-02 22:30:34 +0000"
     },
     "done": true
   },
@@ -823,6 +878,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-02 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
     },
     "done": true
   },
@@ -1048,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-02 22:30:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-02 21:28:49 +0000"
@@ -1087,6 +1154,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-02-02 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
     },
     "done": true
   },
@@ -1156,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-02 21:38:16 +0000"
@@ -1213,6 +1292,12 @@
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-02-02 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-02 22:32:46 +0000"
     },
     "done": true
   },
@@ -1279,6 +1364,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-02 21:21:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-02-02 22:32:29 +0000"
     },
     "done": true
   },
@@ -1375,6 +1466,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-02-02 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-02 22:30:34 +0000"
     },
     "done": true
   },
@@ -1541,6 +1638,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-02 20:37:39 +0000",
       "cooked_beef": "2025-02-02 20:19:29 +0000",
+      "baked_potato": "2025-02-02 22:30:51 +0000",
       "potato": "2025-02-02 21:05:23 +0000",
       "bread": "2025-02-02 20:54:10 +0000",
       "cooked_chicken": "2025-02-02 21:52:11 +0000",
@@ -1581,6 +1679,12 @@
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-02 22:30:34 +0000"
     },
     "done": true
   },
