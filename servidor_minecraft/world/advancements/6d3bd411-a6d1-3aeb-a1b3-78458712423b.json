@@ -869,6 +869,7 @@
     "criteria": {
       "field": "2025-02-02 21:59:58 +0000",
       "coniferous_forest": "2025-02-02 21:24:07 +0000",
+      "redwood_forest": "2025-02-02 22:27:13 +0000",
       "fir_clearing": "2025-02-02 21:40:05 +0000",
       "prairie": "2025-02-02 22:17:08 +0000"
     },
@@ -983,6 +984,12 @@
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:57:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-02 22:26:52 +0000"
     },
     "done": true
   },
@@ -1211,6 +1218,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-02 22:26:04 +0000"
     },
     "done": true
   },
@@ -1475,6 +1488,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-02 21:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-02 22:24:10 +0000"
     },
     "done": true
   },

@@ -1274,3 +1274,25 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [02Feb2025 22:15:43.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Not Today, Thank You]
 [02Feb2025 22:16:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hola:): Teleported hola:) to alaresttv]
 [02Feb2025 22:18:17.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/89982, l='ServerLevel[world]', x=3373.25, y=71.00, z=-4300.45] died, message: 'Fletcher was slain by hola:)'
+[02Feb2025 22:23:25.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/89981, l='ServerLevel[world]', x=3409.25, y=66.75, z=-4261.47] died, message: 'Unemployed was slain by Zombie'
+[02Feb2025 22:24:30.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 fell from a high place
+[02Feb2025 22:24:58.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
+[02Feb2025 22:24:58.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
+[02Feb2025 22:25:30.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 suffocated in a wall
+[02Feb2025 22:25:48.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebal[/100.125.15.17:54451] logged in with entity id 105124 at (-889.7048206932211, -15.0, 1467.3912600916717)
+[02Feb2025 22:25:48.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebal
+[02Feb2025 22:25:48.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebal
+[02Feb2025 22:25:48.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebal
+[02Feb2025 22:25:48.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebal
+[02Feb2025 22:25:48.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebal
+[02Feb2025 22:25:48.838] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebal
+[02Feb2025 22:25:48.838] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
+[02Feb2025 22:25:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
+[02Feb2025 22:25:48.859] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
+[02Feb2025 22:26:04.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Surge Protector]
+[02Feb2025 22:26:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Mine? Mine? Mine?]
+[02Feb2025 22:26:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Zombie Villager
+[02Feb2025 22:27:53.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [First Age]
+[02Feb2025 22:28:26.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02Feb2025 22:28:58.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[02Feb2025 22:29:27.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
