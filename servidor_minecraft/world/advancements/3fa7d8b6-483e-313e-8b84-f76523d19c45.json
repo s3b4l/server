@@ -28,6 +28,7 @@
       "minecraft:taiga": "2025-02-02 20:54:38 +0000",
       "minecraft:cherry_grove": "2025-02-02 22:01:46 +0000",
       "minecraft:sunflower_plains": "2025-02-02 21:49:58 +0000",
+      "minecraft:beach": "2025-02-02 22:42:28 +0000",
       "minecraft:river": "2025-02-02 21:15:43 +0000",
       "minecraft:stony_shore": "2025-02-02 14:19:01 +0000",
       "minecraft:cold_ocean": "2025-02-02 22:38:10 +0000",
@@ -1150,9 +1151,11 @@
       "field": "2025-02-02 21:34:39 +0000",
       "coniferous_forest": "2025-02-02 21:20:26 +0000",
       "forested_field": "2025-02-02 21:39:53 +0000",
+      "seasonal_forest": "2025-02-02 22:41:55 +0000",
       "lavender_field": "2025-02-02 22:18:07 +0000",
       "fir_clearing": "2025-02-02 21:44:52 +0000",
-      "prairie": "2025-02-02 21:44:54 +0000"
+      "prairie": "2025-02-02 21:44:54 +0000",
+      "gravel_beach": "2025-02-02 22:42:16 +0000"
     },
     "done": false
   },
@@ -1714,9 +1717,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-02 22:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
     },
     "done": true
   },
@@ -1738,15 +1759,63 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-02 22:39:23 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-02 22:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-02 22:39:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
     },
     "done": true
   },
@@ -1765,6 +1834,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-02-02 22:39:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-02 22:41:55 +0000"
     },
     "done": true
   },
@@ -1792,9 +1867,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 22:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-02-02 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-02 22:46:46 +0000"
     },
     "done": true
   },

@@ -436,8 +436,10 @@
       "coniferous_forest": "2025-02-02 21:23:25 +0000",
       "redwood_forest": "2025-02-02 22:07:26 +0000",
       "dune_beach": "2025-02-02 22:09:04 +0000",
+      "seasonal_forest": "2025-02-02 22:41:25 +0000",
       "fir_clearing": "2025-02-02 21:28:33 +0000",
-      "prairie": "2025-02-02 22:03:25 +0000"
+      "prairie": "2025-02-02 22:03:25 +0000",
+      "gravel_beach": "2025-02-02 22:41:18 +0000"
     },
     "done": false
   },
@@ -1118,6 +1120,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-02 21:31:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-02 22:41:39 +0000"
     },
     "done": true
   },
