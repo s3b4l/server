@@ -8131,3 +8131,14 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [02Feb2025 23:31:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> ghosty
 [02Feb2025 23:31:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> que onda
 [02Feb2025 23:32:01.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> ya nos vamos
+[02Feb2025 23:33:07.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
+[02Feb2025 23:33:07.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
+[02Feb2025 23:34:45.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:34:45.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:36:34.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/173635, l='ServerLevel[world]', x=-797.68, y=113.00, z=1084.17] died, message: 'Unemployed was slain by Zombie'
+[02Feb2025 23:36:38.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[02Feb2025 23:36:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
+[02Feb2025 23:37:50.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/173636, l='ServerLevel[world]', x=-772.30, y=113.75, z=1097.32] died, message: 'Unemployed was slain by Zombie'
+[02Feb2025 23:38:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pitoflacido.com: Teleported pitoflacido.com to alaresttv]
+[02Feb2025 23:39:45.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:39:45.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
