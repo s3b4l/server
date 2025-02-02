@@ -263,3 +263,61 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Feb2025 20:15:28.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
 [02Feb2025 20:15:28.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
 [02Feb2025 20:18:02.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Stone Age]
+[02Feb2025 20:19:22.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Monster Hunter]
+[02Feb2025 20:20:21.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Getting an Upgrade]
+[02Feb2025 20:20:33.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Stone Age]
+[02Feb2025 20:20:41.829] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [key_lib:key_lib,ancore:ancore] rejected their client side version number
+[02Feb2025 20:20:41.830] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Feb2025 20:20:41.877] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55f41370[id=<null>,name=Maaxz_dou,properties={},legacy=false] (/100.99.176.124:63612) lost connection: Connection closed - mismatched mod channel list
+[02Feb2025 20:21:49.926] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [key_lib:key_lib,ancore:ancore] rejected their client side version number
+[02Feb2025 20:21:49.927] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Feb2025 20:21:49.970] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fe1c52c[id=<null>,name=Maaxz_dou,properties={},legacy=false] (/100.99.176.124:63618) lost connection: Connection closed - mismatched mod channel list
+[02Feb2025 20:21:58.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=71, z=41} BlockPos{x=-32, y=76, z=-6}
+[02Feb2025 20:21:59.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=71, z=41} BlockPos{x=-32, y=75, z=-6}
+[02Feb2025 20:22:00.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=71, z=41} BlockPos{x=-32, y=77, z=-6}
+[02Feb2025 20:22:00.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=71, z=41} BlockPos{x=-32, y=76, z=-6}
+[02Feb2025 20:22:00.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=71, z=41} BlockPos{x=-32, y=77, z=-6}
+[02Feb2025 20:22:02.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Getting an Upgrade]
+[02Feb2025 20:24:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Monster Hunter]
+[02Feb2025 20:28:31.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hola:)[/100.72.34.64:57952] logged in with entity id 5680 at (-27.5, 76.0, -1.5)
+[02Feb2025 20:28:31.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hola:)
+[02Feb2025 20:28:31.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hola:)
+[02Feb2025 20:28:31.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hola:)
+[02Feb2025 20:28:31.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hola:)
+[02Feb2025 20:28:31.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hola:)
+[02Feb2025 20:28:31.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hola:)
+[02Feb2025 20:28:31.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hola:)
+[02Feb2025 20:28:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) joined the game
+[02Feb2025 20:28:31.463] [Server thread/INFO] [Jade/]: Syncing config to hola:) (6d3bd411-a6d1-3aeb-a1b3-78458712423b)
+[02Feb2025 20:29:04.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hola:) lost connection: Disconnected
+[02Feb2025 20:29:04.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) left the game
+[02Feb2025 20:33:37.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hola:)[/100.72.34.64:58075] logged in with entity id 7693 at (-8.242697795744675, 76.0, -16.365211195303054)
+[02Feb2025 20:33:37.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hola:)
+[02Feb2025 20:33:37.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hola:)
+[02Feb2025 20:33:37.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hola:)
+[02Feb2025 20:33:37.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hola:)
+[02Feb2025 20:33:37.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hola:)
+[02Feb2025 20:33:37.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hola:)
+[02Feb2025 20:33:37.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hola:)
+[02Feb2025 20:33:37.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) joined the game
+[02Feb2025 20:33:37.527] [Server thread/INFO] [Jade/]: Syncing config to hola:) (6d3bd411-a6d1-3aeb-a1b3-78458712423b)
+[02Feb2025 20:34:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Getting an Upgrade]
+[02Feb2025 20:35:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [First Age]
+[02Feb2025 20:35:40.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Alex's Mobs]
+[02Feb2025 20:37:15.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hola:)> donde esta alares no se ve en el mapa
+[02Feb2025 20:37:26.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> nse por ahi
+[02Feb2025 20:37:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Stone Age]
+[02Feb2025 20:37:32.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15023e57[id=<null>,name=Maaxz_dou,properties={},legacy=false] (/100.99.176.124:63695) lost connection: Disconnected
+[02Feb2025 20:38:13.775] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b0b1852[id=<null>,name=Maaxz_dou,properties={},legacy=false] (/100.99.176.124:63697) lost connection: Disconnected
+[02Feb2025 20:38:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [A True Source of Evil]
+[02Feb2025 20:38:26.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebal[/100.125.15.17:53456] logged in with entity id 9636 at (24.8302437610314, 70.0, 38.44357512765051)
+[02Feb2025 20:38:26.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebal
+[02Feb2025 20:38:26.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebal
+[02Feb2025 20:38:26.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebal
+[02Feb2025 20:38:26.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebal
+[02Feb2025 20:38:26.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebal
+[02Feb2025 20:38:26.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebal
+[02Feb2025 20:38:26.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
+[02Feb2025 20:38:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
+[02Feb2025 20:38:26.393] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
+[02Feb2025 20:38:27.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=74, z=-9} BlockPos{x=-16, y=75, z=-8}
