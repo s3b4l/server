@@ -357,3 +357,96 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Feb2025 20:45:05.001] [Server thread/INFO] [Jade/]: Syncing config to Maaxz_dou (b29d52d7-4387-3f36-b2f7-5374273ee356)
 [02Feb2025 20:45:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Enderman
 [02Feb2025 20:48:33.321] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dd29f8b[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:53526) lost connection: Disconnected
+[02Feb2025 20:49:05.477] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@498c8da3[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:53536) lost connection: Disconnected
+[02Feb2025 20:49:23.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c34f9d1[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:53556) lost connection: Disconnected
+[02Feb2025 20:50:14.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebal[/100.125.15.17:53588] logged in with entity id 13792 at (3.315272247718331, 77.0, 19.778328412306138)
+[02Feb2025 20:50:14.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebal
+[02Feb2025 20:50:14.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebal
+[02Feb2025 20:50:14.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebal
+[02Feb2025 20:50:14.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebal
+[02Feb2025 20:50:14.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebal
+[02Feb2025 20:50:14.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebal
+[02Feb2025 20:50:14.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
+[02Feb2025 20:50:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
+[02Feb2025 20:50:14.929] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
+[02Feb2025 20:50:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Made alaresttv a server operator]
+[02Feb2025 20:50:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Made Ghosty_X4 a server operator]
+[02Feb2025 20:50:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Made hola:) a server operator]
+[02Feb2025 20:50:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Made Maaxz_dou a server operator]
+[02Feb2025 20:51:00.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was slain by hola:)
+[02Feb2025 20:51:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> no seas mala hola JAJAJA
+[02Feb2025 20:51:32.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [A True Source of Evil]
+[02Feb2025 20:51:53.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Stone Age]
+[02Feb2025 20:52:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> mira
+[02Feb2025 20:52:15.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> hola
+[02Feb2025 20:52:19.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> ven mira
+[02Feb2025 20:53:46.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Stone Age]
+[02Feb2025 20:54:30.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv was slain by Zombie
+[02Feb2025 20:55:16.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Acquire Hardware]
+[02Feb2025 20:56:17.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Alex's Mobs]
+[02Feb2025 20:58:07.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv was slain by Zombie
+[02Feb2025 20:58:24.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Zombie
+[02Feb2025 20:58:36.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Monster Hunter]
+[02Feb2025 20:58:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was shot by Skeleton
+[02Feb2025 20:59:51.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fd6862d[id=<null>,name=electrodinamixxx,properties={},legacy=false] (/100.80.232.16:50639) lost connection: Disconnected
+[02Feb2025 20:59:55.673] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5861960c[id=<null>,name=electrodinamixxx,properties={},legacy=false] (/100.80.232.16:50642) lost connection: Disconnected
+[02Feb2025 20:59:55.723] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Feb2025 21:01:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Pic-A-Nic Basket?]
+[02Feb2025 21:02:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Pic-A-Nic Basket?]
+[02Feb2025 21:02:04.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Grizzly Bear
+[02Feb2025 21:02:51.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> carla como v
+[02Feb2025 21:02:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> vas
+[02Feb2025 21:02:58.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> estamos en discord cualquiercosa
+[02Feb2025 21:03:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou hit the ground too hard
+[02Feb2025 21:03:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> fuera bicho
+[02Feb2025 21:05:25.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: electrodinamixxx[/100.80.232.16:50759] logged in with entity id 22706 at (-24.5, 76.0, -7.5)
+[02Feb2025 21:05:25.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to electrodinamixxx
+[02Feb2025 21:05:25.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to electrodinamixxx
+[02Feb2025 21:05:25.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to electrodinamixxx
+[02Feb2025 21:05:25.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to electrodinamixxx
+[02Feb2025 21:05:25.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to electrodinamixxx
+[02Feb2025 21:05:25.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to electrodinamixxx
+[02Feb2025 21:05:25.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to electrodinamixxx
+[02Feb2025 21:05:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx joined the game
+[02Feb2025 21:05:25.499] [Server thread/INFO] [Jade/]: Syncing config to electrodinamixxx (dae05757-d208-3c5d-ac01-8228b385d1ce)
+[02Feb2025 21:06:00.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74ca053a[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:62964) lost connection: Disconnected
+[02Feb2025 21:06:50.034] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5901a00[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:62984) lost connection: Disconnected
+[02Feb2025 21:07:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Acquire Hardware]
+[02Feb2025 21:07:09.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [Fishy Business]
+[02Feb2025 21:07:20.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv was slain by Zombie
+[02Feb2025 21:07:30.979] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@584b4dec[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:63005) lost connection: Disconnected
+[02Feb2025 21:08:56.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=75, z=-16} BlockPos{x=-16, y=75, z=-15}
+[02Feb2025 21:09:00.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx was slain by Maaxz_dou
+[02Feb2025 21:09:33.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21b8dbb1[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:63027) lost connection: Disconnected
+[02Feb2025 21:10:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Monster Hunter]
+[02Feb2025 21:10:17.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:63079] logged in with entity id 26239 at (-37.5, 74.0, 2.5)
+[02Feb2025 21:10:17.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
+[02Feb2025 21:10:17.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
+[02Feb2025 21:10:17.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
+[02Feb2025 21:10:17.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
+[02Feb2025 21:10:17.984] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
+[02Feb2025 21:10:17.986] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
+[02Feb2025 21:10:17.986] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
+[02Feb2025 21:10:17.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
+[02Feb2025 21:10:18.038] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
+[02Feb2025 21:10:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Acquire Hardware]
+[02Feb2025 21:10:43.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Suit Up]
+[02Feb2025 21:11:12.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=71, z=-46} BlockPos{x=-27, y=76, z=3}
+[02Feb2025 21:11:12.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=71, z=-46} BlockPos{x=-28, y=76, z=4}
+[02Feb2025 21:11:12.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=71, z=-46} BlockPos{x=-29, y=76, z=4}
+[02Feb2025 21:11:13.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=71, z=-46} BlockPos{x=-38, y=72, z=3}
+[02Feb2025 21:11:13.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=71, z=-46} BlockPos{x=-38, y=72, z=4}
+[02Feb2025 21:11:14.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=71, z=-46} BlockPos{x=-39, y=72, z=5}
+[02Feb2025 21:11:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was slain by electrodinamixxx
+[02Feb2025 21:11:39.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [First Age]
+[02Feb2025 21:11:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by alaresttv
+[02Feb2025 21:11:50.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [Stone Age]
+[02Feb2025 21:13:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Diamonds!]
+[02Feb2025 21:13:40.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [Getting an Upgrade]
+[02Feb2025 21:14:53.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=77, z=20} BlockPos{x=-47, y=73, z=-5}
+[02Feb2025 21:14:53.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=77, z=20} BlockPos{x=-47, y=74, z=-5}
+[02Feb2025 21:15:18.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com was slain by hola:)
+[02Feb2025 21:16:22.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=76, z=-14}
+[02Feb2025 21:16:22.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=75, z=-14}
+[02Feb2025 21:16:23.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=76, z=-14}
+[02Feb2025 21:18:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [First Age]
