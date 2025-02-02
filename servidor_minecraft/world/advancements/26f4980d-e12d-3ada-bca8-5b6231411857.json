@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-02-02 22:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 21:52:23 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-02 22:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-02 21:33:53 +0000"
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-02 22:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:38:00 +0000"
@@ -386,9 +404,18 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2025-02-02 21:23:25 +0000",
-      "fir_clearing": "2025-02-02 21:28:33 +0000"
+      "redwood_forest": "2025-02-02 22:07:26 +0000",
+      "dune_beach": "2025-02-02 22:09:04 +0000",
+      "fir_clearing": "2025-02-02 21:28:33 +0000",
+      "prairie": "2025-02-02 22:03:25 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-02 22:00:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
@@ -452,6 +479,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-02 22:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:42:33 +0000"
@@ -491,6 +524,12 @@
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-02 22:09:00 +0000"
     },
     "done": true
   },
@@ -542,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-02 22:04:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 21:22:41 +0000"
@@ -551,6 +596,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-02-02 21:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-02 22:04:15 +0000"
     },
     "done": true
   },
@@ -680,9 +731,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-02 22:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-02 22:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-02 22:04:15 +0000"
     },
     "done": true
   },
@@ -731,6 +800,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-02 22:04:15 +0000"
     },
     "done": true
   },
@@ -1160,6 +1235,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-02-02 22:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:38:00 +0000"
@@ -1174,6 +1255,8 @@
       "minecraft:stony_shore": "2025-02-02 21:10:41 +0000",
       "minecraft:cold_ocean": "2025-02-02 21:28:15 +0000",
       "minecraft:forest": "2025-02-02 21:10:36 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-02 22:06:02 +0000",
+      "minecraft:ocean": "2025-02-02 22:07:15 +0000",
       "minecraft:plains": "2025-02-02 21:49:51 +0000"
     },
     "done": false
@@ -1242,6 +1325,8 @@
     "criteria": {
       "cooked_mutton": "2025-02-02 21:24:59 +0000",
       "cooked_beef": "2025-02-02 21:47:48 +0000",
+      "pumpkin_pie": "2025-02-02 22:02:00 +0000",
+      "bread": "2025-02-02 22:05:08 +0000",
       "cooked_salmon": "2025-02-02 21:33:08 +0000"
     },
     "done": false

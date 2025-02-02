@@ -83,6 +83,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-02-02 22:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-02 21:37:27 +0000"
@@ -110,6 +122,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-02 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
     },
     "done": true
   },
@@ -179,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:28:07 +0000"
@@ -200,6 +224,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
     },
     "done": true
   },
@@ -233,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-02 21:38:05 +0000"
@@ -263,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-02 21:02:02 +0000"
@@ -287,9 +329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-02 21:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-02 22:05:36 +0000"
     },
     "done": true
   },
@@ -347,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-02 21:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:27:09 +0000"
@@ -377,10 +437,12 @@
       "maple_woods": "2025-02-02 21:49:28 +0000",
       "field": "2025-02-02 21:49:07 +0000",
       "coniferous_forest": "2025-02-02 21:14:00 +0000",
+      "redwood_forest": "2025-02-02 22:07:17 +0000",
       "aspen_glade": "2025-02-02 21:16:06 +0000",
       "seasonal_forest": "2025-02-02 21:15:25 +0000",
       "fir_clearing": "2025-02-02 21:29:18 +0000",
       "pumpkin_patch": "2025-02-02 21:14:32 +0000",
+      "prairie": "2025-02-02 22:07:48 +0000",
       "glowing_grotto": "2025-02-02 21:48:42 +0000",
       "crag": "2025-02-02 21:16:19 +0000"
     },
@@ -455,9 +517,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-02-02 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-02 22:05:36 +0000"
     },
     "done": true
   },
@@ -563,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-02 22:08:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-02 20:56:17 +0000"
@@ -632,6 +712,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-02 21:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
     },
     "done": true
   },
@@ -1103,6 +1189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-02 21:02:02 +0000"
@@ -1142,6 +1234,12 @@
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2025-02-02 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
     },
     "done": true
   },
@@ -1229,6 +1327,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-02-02 22:05:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:27:09 +0000"
@@ -1244,7 +1348,9 @@
       "minecraft:grove": "2025-02-02 21:18:27 +0000",
       "minecraft:cold_ocean": "2025-02-02 21:22:10 +0000",
       "minecraft:forest": "2025-02-02 20:45:05 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-02 22:06:00 +0000",
       "minecraft:frozen_ocean": "2025-02-02 21:22:58 +0000",
+      "minecraft:ocean": "2025-02-02 22:07:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-02 21:51:43 +0000",
       "minecraft:frozen_peaks": "2025-02-02 21:17:12 +0000",
       "minecraft:deep_dark": "2025-02-02 21:27:07 +0000",
@@ -1282,6 +1388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-02 22:08:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-02 21:16:19 +0000"
@@ -1291,6 +1403,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-02 21:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
     },
     "done": true
   },
@@ -1426,6 +1544,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-02 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-02 22:02:26 +0000"
     },
     "done": true
   },

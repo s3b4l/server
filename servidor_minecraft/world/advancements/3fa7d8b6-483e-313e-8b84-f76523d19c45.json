@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-02 20:54:38 +0000",
+      "minecraft:cherry_grove": "2025-02-02 22:01:46 +0000",
       "minecraft:sunflower_plains": "2025-02-02 21:49:58 +0000",
       "minecraft:river": "2025-02-02 21:15:43 +0000",
       "minecraft:stony_shore": "2025-02-02 14:19:01 +0000",
@@ -468,7 +469,8 @@
       "sweet_berries": "2025-02-02 20:54:57 +0000",
       "cooked_beef": "2025-02-02 21:52:40 +0000",
       "apple": "2025-02-02 21:10:11 +0000",
-      "bread": "2025-02-02 21:42:23 +0000"
+      "bread": "2025-02-02 21:42:23 +0000",
+      "golden_apple": "2025-02-02 21:54:55 +0000"
     },
     "done": false
   },
@@ -654,6 +656,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-02 22:03:24 +0000",
       "minecraft:skeleton": "2025-02-02 21:10:03 +0000",
       "minecraft:spider": "2025-02-02 21:41:51 +0000",
       "minecraft:husk": "2025-02-02 21:51:54 +0000",
@@ -1458,6 +1461,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-02 22:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-02 22:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 21:53:07 +0000"
@@ -1467,6 +1482,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 21:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-02-02 22:00:35 +0000"
     },
     "done": true
   },
@@ -1506,6 +1527,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-02 21:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-02 21:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-02 21:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-02 21:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-02 21:58:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 21:53:07 +0000"
@@ -1515,6 +1566,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-02-02 21:50:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-02-02 22:04:09 +0000"
     },
     "done": true
   },
@@ -1539,6 +1596,18 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-02 21:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-02 22:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-02 21:57:13 +0000"
     },
     "done": true
   },
