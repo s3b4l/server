@@ -1359,3 +1359,83 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [02Feb2025 22:46:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) drowned
 [02Feb2025 22:47:14.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hola:) lost connection: Disconnected
 [02Feb2025 22:47:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) left the game
+[02Feb2025 22:51:22.132] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@716b634f[id=<null>,name=Ghosty_X4,properties={},legacy=false] (/100.114.221.40:64963) lost connection: Disconnected
+[02Feb2025 22:51:27.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:64964] logged in with entity id 133404 at (3.5, 35.0, -12.5)
+[02Feb2025 22:51:27.664] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
+[02Feb2025 22:51:27.665] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
+[02Feb2025 22:51:27.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
+[02Feb2025 22:51:27.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
+[02Feb2025 22:51:27.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
+[02Feb2025 22:51:27.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
+[02Feb2025 22:51:27.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
+[02Feb2025 22:51:27.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
+[02Feb2025 22:51:27.757] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[02Feb2025 22:52:27.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was doomed to fall by Zombie
+[02Feb2025 22:54:08.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has made the advancement [The Lighthouse]
+[02Feb2025 22:54:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [The Lighthouse]
+[02Feb2025 22:54:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to electrodinamixxx]
+[02Feb2025 22:55:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to electrodinamixxx]
+[02Feb2025 22:55:49.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[02Feb2025 22:56:41.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported alaresttv to Sebal]
+[02Feb2025 22:56:46.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported pitoflacido.com to Sebal]
+[02Feb2025 22:56:55.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
+[02Feb2025 22:56:56.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv moved too quickly! 22077.440803094978,-61.57969854367613,-21826.960893191066
+[02Feb2025 22:56:56.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: electrodinamixxx moved too quickly! 22077.943959912107,-61.67647087614428,-21827.10578452446
+[02Feb2025 22:58:37.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[02Feb2025 22:58:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx burned to death
+[02Feb2025 22:58:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[02Feb2025 22:58:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has made the advancement [The Silence of the Forest]
+[02Feb2025 22:59:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported pitoflacido.com to Sebal]
+[02Feb2025 22:59:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to alaresttv]
+[02Feb2025 23:00:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[02Feb2025 23:03:23.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [The Silence of the Forest]
+[02Feb2025 23:04:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported alaresttv to Sebal]
+[02Feb2025 23:04:47.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: electrodinamixxx lost connection: Disconnected
+[02Feb2025 23:04:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx left the game
+[02Feb2025 23:05:09.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Sweet Dreams]
+[02Feb2025 23:05:33.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com moved wrongly!
+[02Feb2025 23:06:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Bug Stomper]
+[02Feb2025 23:06:17.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [The Silence of the Forest]
+[02Feb2025 23:06:17.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Bug Stomper]
+[02Feb2025 23:06:20.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Diamonds!]
+[02Feb2025 23:06:20.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hola:)[/100.72.34.64:61064] logged in with entity id 159445 at (3416.652562644227, 65.0, -4251.0115290874965)
+[02Feb2025 23:06:20.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hola:)
+[02Feb2025 23:06:20.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hola:)
+[02Feb2025 23:06:20.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hola:)
+[02Feb2025 23:06:20.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hola:)
+[02Feb2025 23:06:20.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hola:)
+[02Feb2025 23:06:20.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hola:)
+[02Feb2025 23:06:20.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hola:)
+[02Feb2025 23:06:20.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) joined the game
+[02Feb2025 23:06:20.254] [Server thread/INFO] [Jade/]: Syncing config to hola:) (6d3bd411-a6d1-3aeb-a1b3-78458712423b)
+[02Feb2025 23:07:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has made the advancement [Bug Stomper]
+[02Feb2025 23:08:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hola:): Teleported hola:) to Ghosty_X4]
+[02Feb2025 23:08:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> venganza
+[02Feb2025 23:08:22.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) was slain by Ghosty_X4
+[02Feb2025 23:08:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported pitoflacido.com to Sebal]
+[02Feb2025 23:08:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[02Feb2025 23:09:03.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) fell from a high place
+[02Feb2025 23:10:15.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) fell from a high place
+[02Feb2025 23:10:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has reached the goal [Time To Even The Scales]
+[02Feb2025 23:10:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has reached the goal [Time To Even The Scales]
+[02Feb2025 23:10:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has reached the goal [Time To Even The Scales]
+[02Feb2025 23:11:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hola:): Teleported hola:) to Ghosty_X4]
+[02Feb2025 23:15:42.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported alaresttv to Sebal]
+[02Feb2025 23:19:19.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hola:) lost connection: Disconnected
+[02Feb2025 23:19:19.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) left the game
+[02Feb2025 23:19:36.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hola:)[/100.72.34.64:61159] logged in with entity id 169211 at (291.708569625648, 67.0, -302.42476834230285)
+[02Feb2025 23:19:36.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hola:)
+[02Feb2025 23:19:36.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hola:)
+[02Feb2025 23:19:36.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hola:)
+[02Feb2025 23:19:36.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hola:)
+[02Feb2025 23:19:36.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hola:)
+[02Feb2025 23:19:36.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hola:)
+[02Feb2025 23:19:36.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hola:)
+[02Feb2025 23:19:36.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) joined the game
+[02Feb2025 23:19:36.206] [Server thread/INFO] [Jade/]: Syncing config to hola:) (6d3bd411-a6d1-3aeb-a1b3-78458712423b)
+[02Feb2025 23:20:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hola:): Teleported hola:) to Ghosty_X4]
+[02Feb2025 23:20:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hola:): Teleported hola:) to Sebal]
+[02Feb2025 23:21:03.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> estamos en otra dimension
+[02Feb2025 23:21:08.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> aca hay un jefe
+[02Feb2025 23:21:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) has made the advancement [The Silence of the Forest]
+[02Feb2025 23:21:27.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola:) was slain by Sebal
