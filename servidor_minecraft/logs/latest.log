@@ -903,3 +903,51 @@ java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=f
 [02Feb2025 01:33:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?? has made the advancement [Monster Hunter]
 [02Feb2025 01:35:04.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?? lost connection: Disconnected
 [02Feb2025 01:35:04.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?? left the game
+[02Feb2025 01:35:53.795] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15d89de4[id=<null>,name=??,properties={},legacy=false] (/100.123.205.66:50491) lost connection: Disconnected
+[02Feb2025 01:35:59.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ??[/100.123.205.66:50500] logged in with entity id 9751 at (183.30000001192093, 32.0, 30.1019987924734)
+[02Feb2025 01:35:59.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ??
+[02Feb2025 01:35:59.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ??
+[02Feb2025 01:35:59.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ??
+[02Feb2025 01:35:59.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ??
+[02Feb2025 01:35:59.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ??
+[02Feb2025 01:35:59.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ??
+[02Feb2025 01:35:59.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ??
+[02Feb2025 01:35:59.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?? joined the game
+[02Feb2025 01:35:59.837] [Server thread/INFO] [Jade/]: Syncing config to ?? (8c02b1dc-f5f9-3246-95e9-814f8a6908eb)
+[02Feb2025 01:36:05.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4203, l='ServerLevel[world]', x=-191.51, y=68.00, z=69.04] died, message: 'Nitwit was slain by Zombie'
+[02Feb2025 01:36:27.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?? lost connection: Disconnected
+[02Feb2025 01:36:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?? left the game
+[02Feb2025 01:38:27.995] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_silence:the_silence,geckolib:main,graveyard:spawn_entity] rejected their client side version number
+[02Feb2025 01:38:27.996] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Feb2025 01:38:28.012] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@670e92ae[id=<null>,name=??,properties={},legacy=false] (/100.123.205.66:50568) lost connection: Connection closed - mismatched mod channel list
+[02Feb2025 01:38:37.790] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_silence:the_silence,geckolib:main,graveyard:spawn_entity] rejected their client side version number
+[02Feb2025 01:38:37.790] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Feb2025 01:38:37.796] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@93ec3a1[id=<null>,name=??,properties={},legacy=false] (/100.123.205.66:50571) lost connection: Connection closed - mismatched mod channel list
+[02Feb2025 01:38:42.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 01:38:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 01:38:42.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: electrodinamixxx lost connection: Disconnected
+[02Feb2025 01:38:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx left the game
+[02Feb2025 01:38:42.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 01:38:43.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 01:38:43.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[02Feb2025 01:38:43.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[02Feb2025 01:38:43.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_silence:pesadilla_dimension
+[02Feb2025 01:38:43.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Feb2025 01:38:43.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_silence:prueba_bolsillo
+[02Feb2025 01:38:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[02Feb2025 01:38:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Feb2025 01:38:43.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Feb2025 01:38:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 01:38:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[02Feb2025 01:38:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pesadilla_dimension): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (prueba_bolsillo): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 01:38:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Feb2025 01:38:44.085] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Feb2025 01:38:44.086] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Feb2025 01:38:44.087] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Feb2025 01:38:44.088] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

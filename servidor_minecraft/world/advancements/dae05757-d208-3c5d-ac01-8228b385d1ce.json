@@ -67,7 +67,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-02-02 01:13:01 +0000"
+      "minecraft:skeleton": "2025-02-02 01:34:47 +0000",
+      "minecraft:spider": "2025-02-02 01:13:01 +0000",
+      "minecraft:zombie": "2025-02-02 01:37:25 +0000"
     },
     "done": false
   },
@@ -697,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-02 01:34:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 01:30:46 +0000"
@@ -970,6 +978,12 @@
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-02-02 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-02 01:37:43 +0000"
     },
     "done": true
   },
