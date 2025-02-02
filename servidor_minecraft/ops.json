@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "26f4980d-e12d-3ada-bca8-5b6231411857",
+    "name": "pitoflacido.com",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "3fa7d8b6-483e-313e-8b84-f76523d19c45",
     "name": "Sebal",
     "level": 4,
@@ -20,6 +26,12 @@
   {
     "uuid": "d218ad1f-ef91-3f85-9420-332d1b8a45c5",
     "name": "alaresttv",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dae05757-d208-3c5d-ac01-8228b385d1ce",
+    "name": "electrodinamixxx",
     "level": 4,
     "bypassesPlayerLimit": false
   },

@@ -26,9 +26,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-02 20:35:57 +0000",
+      "minecraft:sunflower_plains": "2025-02-02 21:50:36 +0000",
       "minecraft:river": "2025-02-02 21:13:20 +0000",
       "minecraft:stony_shore": "2025-02-02 20:28:32 +0000",
-      "minecraft:forest": "2025-02-02 20:36:07 +0000"
+      "minecraft:forest": "2025-02-02 20:36:07 +0000",
+      "minecraft:plains": "2025-02-02 21:49:01 +0000"
     },
     "done": false
   },
@@ -482,9 +484,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-02 21:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-02 20:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-02 21:34:07 +0000"
     },
     "done": true
   },
@@ -518,9 +532,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-02 21:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-02 21:42:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:57:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-02-02 21:34:03 +0000"
     },
     "done": true
   },
@@ -530,9 +562,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-02-02 21:53:20 +0000"
     },
     "done": true
   },
@@ -566,9 +610,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-02 21:34:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-02 21:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-02 21:51:27 +0000"
     },
     "done": true
   },
@@ -584,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-02-02 21:00:20 +0000"
@@ -596,6 +658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-02 21:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-02 20:50:17 +0000"
@@ -605,6 +673,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-02 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-02 21:52:34 +0000"
     },
     "done": true
   },
@@ -623,6 +697,19 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-02-02 21:24:07 +0000",
+      "fir_clearing": "2025-02-02 21:40:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
     },
     "done": true
   },
@@ -650,6 +737,18 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-02-02 20:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-02 21:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-02 21:32:50 +0000"
     },
     "done": true
   },
@@ -755,6 +854,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-02 21:26:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-02 20:57:49 +0000"
@@ -764,6 +875,18 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-02 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-02 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
     },
     "done": true
   },
@@ -791,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-02 21:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-02 21:10:09 +0000"
@@ -815,9 +944,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-02 21:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-02 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-02 21:34:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-02-02 21:50:48 +0000"
     },
     "done": true
   },
@@ -830,6 +977,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-02 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
     },
     "done": true
   },
@@ -860,6 +1013,18 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-02-02 20:51:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-02-02 21:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
     },
     "done": true
   },
@@ -899,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-02 21:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-02 20:50:01 +0000"
@@ -908,6 +1079,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-02-02 21:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-02 21:36:57 +0000"
     },
     "done": true
   },
@@ -935,19 +1112,49 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-02 20:49:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-02-02 21:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-02-02 21:40:18 +0000",
       "cooked_mutton": "2025-02-02 20:43:50 +0000",
       "sweet_berries": "2025-02-02 20:52:30 +0000",
       "cooked_beef": "2025-02-02 20:54:29 +0000",
+      "porkchop": "2025-02-02 21:38:08 +0000",
+      "cooked_cod": "2025-02-02 21:17:44 +0000",
+      "pufferfish": "2025-02-02 21:22:44 +0000",
+      "bread": "2025-02-02 21:52:53 +0000",
       "rotten_flesh": "2025-02-02 20:42:08 +0000",
-      "cooked_chicken": "2025-02-02 20:43:30 +0000"
+      "cooked_chicken": "2025-02-02 20:43:30 +0000",
+      "cooked_salmon": "2025-02-02 21:28:43 +0000"
     },
     "done": false
   },
