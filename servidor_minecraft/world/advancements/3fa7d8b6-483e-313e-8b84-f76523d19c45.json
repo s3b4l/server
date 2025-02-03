@@ -1151,6 +1151,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "erupting_inferno": "2025-02-03 01:11:43 +0000",
       "crystalline_chasm": "2025-02-03 00:47:25 +0000",
       "withered_abyss": "2025-02-03 00:45:27 +0000",
       "field": "2025-02-02 21:34:39 +0000",
@@ -2371,6 +2372,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-03 01:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-03 00:45:24 +0000"
@@ -2395,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-03 01:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 00:49:07 +0000"
@@ -2404,6 +2417,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-03 01:09:24 +0000"
     },
     "done": true
   },

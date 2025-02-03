@@ -2121,6 +2121,12 @@
     },
     "done": true
   },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-02-03 01:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-03 00:40:12 +0000"
