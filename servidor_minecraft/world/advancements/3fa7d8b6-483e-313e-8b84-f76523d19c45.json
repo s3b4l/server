@@ -673,6 +673,7 @@
       "minecraft:wither_skeleton": "2025-02-03 00:47:38 +0000",
       "minecraft:husk": "2025-02-02 21:51:54 +0000",
       "minecraft:enderman": "2025-02-02 21:43:52 +0000",
+      "minecraft:silverfish": "2025-02-03 17:51:15 +0000",
       "minecraft:zombie": "2025-02-02 21:22:43 +0000",
       "minecraft:zombie_villager": "2025-02-02 22:52:11 +0000"
     },
@@ -2660,6 +2661,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-03 17:51:41 +0000"
     },
     "done": true
   },
