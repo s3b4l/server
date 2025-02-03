@@ -5996,3 +5996,8 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 19:26:15.931] [Server thread/DEBUG] [twilightforest/]: Player Deni (1118c6e0-43ec-3ee5-b593-4ec682347e8a) respawned and received items held in storage
 [03Feb2025 19:28:48.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 19:28:48.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 19:33:48.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 19:33:48.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 19:35:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni has made the advancement [Mine? Mine? Mine?]
+[03Feb2025 19:38:48.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 19:38:48.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
