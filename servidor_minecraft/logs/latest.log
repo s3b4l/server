@@ -568,3 +568,23 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 19:41:45.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni has made the advancement [Ice Bucket Challenge]
 [03Feb2025 19:47:45.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deni lost connection: Disconnected
 [03Feb2025 19:47:45.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni left the game
+[03Feb2025 20:09:07.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Feb2025 20:09:07.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Feb2025 20:09:07.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Feb2025 20:09:07.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Feb2025 20:09:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[03Feb2025 20:09:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[03Feb2025 20:09:07.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Feb2025 20:09:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Feb2025 20:09:07.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Feb2025 20:09:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Feb2025 20:09:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[03Feb2025 20:09:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[03Feb2025 20:09:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Feb2025 20:09:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Feb2025 20:09:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Feb2025 20:09:07.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Feb2025 20:09:07.467] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Feb2025 20:09:07.468] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Feb2025 20:09:07.470] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[03Feb2025 20:09:07.471] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
