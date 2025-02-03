@@ -474,6 +474,7 @@
       "cooked_mutton": "2025-02-02 21:32:16 +0000",
       "sweet_berries": "2025-02-02 20:54:57 +0000",
       "cooked_beef": "2025-02-02 21:52:40 +0000",
+      "baked_potato": "2025-02-03 01:22:50 +0000",
       "apple": "2025-02-02 21:10:11 +0000",
       "pumpkin_pie": "2025-02-02 23:24:00 +0000",
       "bread": "2025-02-02 21:42:23 +0000",
@@ -2359,6 +2360,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-03 01:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 00:49:07 +0000"
@@ -2393,6 +2400,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-02-03 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-03 01:23:50 +0000"
     },
     "done": true
   },
@@ -2537,6 +2550,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-02-03 01:23:50 +0000"
     },
     "done": true
   },

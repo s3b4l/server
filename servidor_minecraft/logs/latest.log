@@ -252,3 +252,7 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 01:04:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has completed the challenge [Learn to Fart]
 [03Feb2025 01:09:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Hidden in the Depths]
 [03Feb2025 01:14:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to pitoflacido.com]
+[03Feb2025 01:19:36.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[03Feb2025 01:19:36.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[03Feb2025 01:21:58.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported pitoflacido.com to Sebal]
+[03Feb2025 01:26:38.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has made the advancement [Cover Me with Diamonds]
