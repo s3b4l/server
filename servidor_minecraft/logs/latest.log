@@ -565,3 +565,6 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 19:26:05.221] [Server thread/INFO] [Jade/]: Syncing config to Deni (1118c6e0-43ec-3ee5-b593-4ec682347e8a)
 [03Feb2025 19:26:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni drowned
 [03Feb2025 19:35:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni has made the advancement [Mine? Mine? Mine?]
+[03Feb2025 19:41:45.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni has made the advancement [Ice Bucket Challenge]
+[03Feb2025 19:47:45.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deni lost connection: Disconnected
+[03Feb2025 19:47:45.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni left the game

@@ -6001,3 +6001,10 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 19:35:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni has made the advancement [Mine? Mine? Mine?]
 [03Feb2025 19:38:48.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 19:38:48.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 19:41:45.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni has made the advancement [Ice Bucket Challenge]
+[03Feb2025 19:43:48.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 19:43:48.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 19:47:45.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deni lost connection: Disconnected
+[03Feb2025 19:47:45.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni left the game
+[03Feb2025 19:48:48.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 19:48:48.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
