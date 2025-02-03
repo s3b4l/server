@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-03 18:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-03 17:44:42 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-03 18:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-03 17:39:42 +0000"
@@ -441,7 +453,10 @@
     "criteria": {
       "field": "2025-02-03 16:58:06 +0000",
       "coniferous_forest": "2025-02-03 18:09:41 +0000",
-      "spider_nest": "2025-02-03 17:30:33 +0000"
+      "spider_nest": "2025-02-03 17:30:33 +0000",
+      "seasonal_forest": "2025-02-03 18:54:08 +0000",
+      "pumpkin_patch": "2025-02-03 18:57:57 +0000",
+      "gravel_beach": "2025-02-03 18:42:09 +0000"
     },
     "done": false
   },
@@ -480,6 +495,7 @@
       "minecraft:skeleton": "2025-02-03 18:20:12 +0000",
       "minecraft:spider": "2025-02-03 17:40:11 +0000",
       "minecraft:creeper": "2025-02-03 17:06:07 +0000",
+      "minecraft:cave_spider": "2025-02-03 18:58:19 +0000",
       "minecraft:silverfish": "2025-02-03 18:26:41 +0000",
       "minecraft:zombie": "2025-02-03 17:07:15 +0000"
     },
@@ -512,6 +528,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-03 16:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-03 18:58:19 +0000"
     },
     "done": true
   },
@@ -566,6 +588,12 @@
   "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
     "criteria": {
       "has_white_lavender": "2025-02-03 16:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-03 18:58:19 +0000"
     },
     "done": true
   },
@@ -1121,6 +1149,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-03 18:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-03 16:55:26 +0000"
@@ -1190,6 +1224,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-03 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-03 18:58:19 +0000"
     },
     "done": true
   },
@@ -1334,7 +1374,9 @@
     "criteria": {
       "cooked_mutton": "2025-02-03 18:20:22 +0000",
       "baked_potato": "2025-02-03 17:45:22 +0000",
-      "rotten_flesh": "2025-02-03 17:07:30 +0000"
+      "golden_apple": "2025-02-03 18:57:21 +0000",
+      "rotten_flesh": "2025-02-03 17:07:30 +0000",
+      "cooked_salmon": "2025-02-03 18:52:23 +0000"
     },
     "done": false
   },
@@ -1410,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-03 18:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-03 17:44:42 +0000"
@@ -1467,6 +1515,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-03 17:42:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-03 18:54:54 +0000"
     },
     "done": true
   },

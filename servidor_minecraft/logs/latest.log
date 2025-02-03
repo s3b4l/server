@@ -486,3 +486,48 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 18:28:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> SIII UN PUTO DIAMANTE
 [03Feb2025 18:29:03.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Yo solo tengo 11 y las herramientas de diamante
 [03Feb2025 18:29:16.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> XD
+[03Feb2025 18:29:59.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Ya tebgo 18
+[03Feb2025 18:30:05.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
+[03Feb2025 18:30:05.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
+[03Feb2025 18:30:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported KamiiWinS to alaresttv]
+[03Feb2025 18:31:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Ya lo dije hisimos un laberinto
+[03Feb2025 18:31:45.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Se puede hacer maso de diamante ?
+[03Feb2025 18:32:12.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Ok es que no tengo hierro
+[03Feb2025 18:32:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Y va mucho mas rapido
+[03Feb2025 18:35:02.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> XD No me sigan por que mi camino va a ser hasta que me muera
+[03Feb2025 18:36:30.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to KamiiWinS]
+[03Feb2025 18:38:44.514] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[03Feb2025 18:38:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Chompy]
+[03Feb2025 18:39:00.089] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[03Feb2025 18:39:00.089] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[03Feb2025 18:39:06.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[03Feb2025 18:39:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[03Feb2025 18:40:58.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Tengo dos stacks de las gemas negras XD
+[03Feb2025 18:41:00.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:55436] logged in with entity id 86164 at (-318.9476311455358, 64.10000000149012, 355.97989281183953)
+[03Feb2025 18:41:00.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[03Feb2025 18:41:00.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[03Feb2025 18:41:00.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[03Feb2025 18:41:00.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[03Feb2025 18:41:00.544] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[03Feb2025 18:41:00.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[03Feb2025 18:41:00.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[03Feb2025 18:41:00.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[03Feb2025 18:41:00.600] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[03Feb2025 18:41:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KamiiWinS: Teleported alaresttv to KamiiWinS]
+[03Feb2025 18:41:10.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82990, l='ServerLevel[world]', x=-763.51, y=102.02, z=1117.30] died, message: 'Unemployed was slain by Zombie'
+[03Feb2025 18:42:47.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Ostia si ven el tunel que hise no se la creen XD
+[03Feb2025 18:45:55.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to KamiiWinS]
+[03Feb2025 18:46:08.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS fell from a high place
+[03Feb2025 18:46:22.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported KamiiWinS to alaresttv]
+[03Feb2025 18:47:59.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to KamiiWinS]
+[03Feb2025 18:49:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KamiiWinS: Teleported KamiiWinS to alaresttv]
+[03Feb2025 18:49:59.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Los puntos grises son personas ?
+[03Feb2025 18:50:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Pero la queria tanto(Se refiere a los diamantes)
+[03Feb2025 18:51:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_Leon has made the advancement [Suit Up]
+[03Feb2025 18:51:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Feb2025 18:51:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: se ha detectado una actividad inusual en un jugador, se procedera a una revision...<--[HERE]
+[03Feb2025 18:51:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Cover Me with Diamonds]
+[03Feb2025 18:53:00.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Enchanter]
+[03Feb2025 18:53:36.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Creo que ya puedo hacer mi casa de diamantes
+[03Feb2025 18:55:45.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[03Feb2025 18:55:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
