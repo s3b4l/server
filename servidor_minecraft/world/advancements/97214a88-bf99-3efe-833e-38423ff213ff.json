@@ -25,9 +25,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-02-03 17:25:15 +0000",
       "minecraft:sunflower_plains": "2025-02-03 16:49:18 +0000",
       "minecraft:cherry_grove": "2025-02-03 16:56:39 +0000",
+      "minecraft:river": "2025-02-03 17:06:31 +0000",
+      "minecraft:stony_shore": "2025-02-03 17:25:08 +0000",
       "minecraft:forest": "2025-02-03 16:49:04 +0000",
+      "minecraft:flower_forest": "2025-02-03 17:24:49 +0000",
       "minecraft:plains": "2025-02-03 16:55:42 +0000"
     },
     "done": false
@@ -47,6 +51,12 @@
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-02-03 16:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -86,6 +96,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-03 17:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-03 17:01:32 +0000"
@@ -119,6 +135,30 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 16:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2025-02-03 17:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -161,6 +201,18 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-03 16:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -212,6 +264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-03 17:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-03 16:55:16 +0000"
@@ -227,6 +285,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-03 16:56:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-02-03 17:12:57 +0000"
     },
     "done": true
   },
@@ -254,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-03 16:54:13 +0000"
@@ -275,7 +345,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-02-03 17:02:01 +0000",
-      "minecraft:enderman": "2025-02-03 17:02:12 +0000"
+      "minecraft:enderman": "2025-02-03 17:02:12 +0000",
+      "minecraft:zombie": "2025-02-03 17:24:20 +0000",
+      "minecraft:drowned": "2025-02-03 17:28:52 +0000"
     },
     "done": false
   },
@@ -297,9 +369,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-03 17:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-03 17:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-03 17:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -429,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 17:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-03 16:54:13 +0000"
@@ -447,9 +543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-03 16:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-03 17:13:35 +0000"
     },
     "done": true
   },
@@ -561,6 +669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-03 17:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 16:57:06 +0000"
@@ -576,6 +690,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-03 16:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -657,9 +777,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-03 16:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -683,13 +815,26 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-03 17:17:42 +0000",
       "bread": "2025-02-03 16:56:33 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-02-03 16:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
     },
     "done": true
   },
@@ -711,9 +856,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-03 16:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-03 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-02-03 17:07:32 +0000"
     },
     "done": true
   },

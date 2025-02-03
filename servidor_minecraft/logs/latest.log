@@ -315,3 +315,58 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 17:07:21.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to electrodinamixxx
 [03Feb2025 17:07:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx joined the game
 [03Feb2025 17:07:21.969] [Server thread/INFO] [Jade/]: Syncing config to electrodinamixxx (dae05757-d208-3c5d-ac01-8228b385d1ce)
+[03Feb2025 17:07:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[03Feb2025 17:09:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> MAS DIAMANTE LA COCHA DE MI MADREE
+[03Feb2025 17:10:06.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> ME ESTAN JODIENDO AHORA UN PUTO SPAWNER
+[03Feb2025 17:10:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_Leon has made the advancement [Getting an Upgrade]
+[03Feb2025 17:11:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Alguien que tenga un pico de hierro se tepea a mi porfa
+[03Feb2025 17:12:10.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Che me pueden leer ?
+[03Feb2025 17:12:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Putamare Me quiero cortar la crg
+[03Feb2025 17:12:44.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> XD
+[03Feb2025 17:16:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS has made the advancement [Stone Age]
+[03Feb2025 17:17:46.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:59573] logged in with entity id 17482 at (-850.8344906590188, 112.0, 1237.926151077496)
+[03Feb2025 17:17:46.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[03Feb2025 17:17:46.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[03Feb2025 17:17:46.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[03Feb2025 17:17:46.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[03Feb2025 17:17:46.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[03Feb2025 17:17:46.600] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[03Feb2025 17:17:46.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[03Feb2025 17:17:46.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[03Feb2025 17:17:46.670] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[03Feb2025 17:18:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Tengo 3 Stacks de piedra negra la recalcadisima concha de mi madre
+[03Feb2025 17:19:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_Leon suffocated in a wall
+[03Feb2025 17:21:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> El chilido es del warden ?
+[03Feb2025 17:21:19.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_Leon was blown up by Creeper
+[03Feb2025 17:22:07.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Tengo un puto ejercito de wardens XD
+[03Feb2025 17:22:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni was obliterated by a sonically-charged shriek
+[03Feb2025 17:22:32.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> XD Se puede tepear al cuerpo ?
+[03Feb2025 17:23:14.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-28, y=77, z=-7}
+[03Feb2025 17:23:14.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-27, y=77, z=-8}
+[03Feb2025 17:23:16.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Yo sin mi cuerpo no me voy
+[03Feb2025 17:23:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Tenshi_Leon to Sebal]
+[03Feb2025 17:24:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS was slain by Enderman
+[03Feb2025 17:25:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported KamiiWinS to Sebal]
+[03Feb2025 17:25:43.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni was shot by Skeleton
+[03Feb2025 17:25:55.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: electrodinamixxx lost connection: Disconnected
+[03Feb2025 17:25:55.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx left the game
+[03Feb2025 17:25:56.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> PUTAMADREEE
+[03Feb2025 17:27:43.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[03Feb2025 17:27:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[03Feb2025 17:28:26.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:59679] logged in with entity id 25103 at (-877.769763864705, 111.0, 1234.261481446981)
+[03Feb2025 17:28:26.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[03Feb2025 17:28:26.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[03Feb2025 17:28:26.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[03Feb2025 17:28:26.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[03Feb2025 17:28:26.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[03Feb2025 17:28:26.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[03Feb2025 17:28:26.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[03Feb2025 17:28:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[03Feb2025 17:28:26.337] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[03Feb2025 17:30:33.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS was slain by Drowned
+[03Feb2025 17:32:10.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported KamiiWinS to Sebal]
+[03Feb2025 17:34:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Che alguien quiere un par de stacks de piedra ?
+[03Feb2025 17:36:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Dot mi clo por 1 de hierro
+[03Feb2025 17:36:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Doy 6 stacks de piedra por 1 de hierro
+[03Feb2025 17:38:12.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
+[03Feb2025 17:38:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
