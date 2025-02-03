@@ -531,3 +531,36 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Feb2025 18:53:36.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Creo que ya puedo hacer mi casa de diamantes
 [03Feb2025 18:55:45.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
 [03Feb2025 18:55:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[03Feb2025 19:06:37.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_Leon lost connection: Disconnected
+[03Feb2025 19:06:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_Leon left the game
+[03Feb2025 19:07:57.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deni lost connection: Timed out
+[03Feb2025 19:07:57.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni left the game
+[03Feb2025 19:13:15.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deni[/100.122.191.7:65332] logged in with entity id 106024 at (-552.3000000119209, -42.0, -269.62216054331196)
+[03Feb2025 19:13:15.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Deni
+[03Feb2025 19:13:15.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Deni
+[03Feb2025 19:13:15.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Deni
+[03Feb2025 19:13:15.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Deni
+[03Feb2025 19:13:15.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Deni
+[03Feb2025 19:13:15.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Deni
+[03Feb2025 19:13:15.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Deni
+[03Feb2025 19:13:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni joined the game
+[03Feb2025 19:13:15.129] [Server thread/INFO] [Jade/]: Syncing config to Deni (1118c6e0-43ec-3ee5-b593-4ec682347e8a)
+[03Feb2025 19:18:40.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS has made the advancement [We Need to Go Deeper]
+[03Feb2025 19:18:43.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> si van ak nether yo voy
+[03Feb2025 19:19:18.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS has made the advancement [Nightmare Fuel]
+[03Feb2025 19:24:09.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KamiiWinS lost connection: Disconnected
+[03Feb2025 19:24:09.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KamiiWinS left the game
+[03Feb2025 19:25:10.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deni lost connection: Disconnected
+[03Feb2025 19:25:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni left the game
+[03Feb2025 19:25:50.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fed4d78[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:65372) lost connection: Disconnected
+[03Feb2025 19:26:05.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deni[/100.122.191.7:65392] logged in with entity id 114004 at (-652.0766650203207, 32.529971801559945, -386.42133460739467)
+[03Feb2025 19:26:05.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Deni
+[03Feb2025 19:26:05.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Deni
+[03Feb2025 19:26:05.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Deni
+[03Feb2025 19:26:05.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Deni
+[03Feb2025 19:26:05.205] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Deni
+[03Feb2025 19:26:05.206] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Deni
+[03Feb2025 19:26:05.207] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Deni
+[03Feb2025 19:26:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni joined the game
+[03Feb2025 19:26:05.221] [Server thread/INFO] [Jade/]: Syncing config to Deni (1118c6e0-43ec-3ee5-b593-4ec682347e8a)
+[03Feb2025 19:26:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni drowned
