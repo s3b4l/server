@@ -8334,3 +8334,14 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [03Feb2025 00:04:45.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Feb2025 00:09:45.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 00:09:45.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:12:48.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-901, y=119, z=1254} BlockPos{x=-902, y=118, z=1255}
+[03Feb2025 00:12:48.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-901, y=119, z=1254} BlockPos{x=-902, y=118, z=1255}
+[03Feb2025 00:12:55.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=119, z=1254} BlockPos{x=-905, y=118, z=1252}
+[03Feb2025 00:12:55.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=119, z=1254} BlockPos{x=-905, y=118, z=1252}
+[03Feb2025 00:12:55.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=119, z=1254} BlockPos{x=-905, y=118, z=1252}
+[03Feb2025 00:14:32.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-874, y=118, z=1195} BlockPos{x=-873, y=118, z=1195}
+[03Feb2025 00:14:44.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:14:45.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:14:46.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-902, y=120, z=1248} BlockPos{x=-901, y=118, z=1248}
+[03Feb2025 00:19:45.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:19:45.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

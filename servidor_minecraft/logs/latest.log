@@ -8,3 +8,10 @@
 [03Feb2025 00:02:14.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
 [03Feb2025 00:02:14.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
 [03Feb2025 00:02:14.690] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
+[03Feb2025 00:12:48.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-901, y=119, z=1254} BlockPos{x=-902, y=118, z=1255}
+[03Feb2025 00:12:48.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-901, y=119, z=1254} BlockPos{x=-902, y=118, z=1255}
+[03Feb2025 00:12:55.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=119, z=1254} BlockPos{x=-905, y=118, z=1252}
+[03Feb2025 00:12:55.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=119, z=1254} BlockPos{x=-905, y=118, z=1252}
+[03Feb2025 00:12:55.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=119, z=1254} BlockPos{x=-905, y=118, z=1252}
+[03Feb2025 00:14:32.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-874, y=118, z=1195} BlockPos{x=-873, y=118, z=1195}
+[03Feb2025 00:14:46.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-902, y=120, z=1248} BlockPos{x=-901, y=118, z=1248}
