@@ -28,6 +28,7 @@
       "minecraft:snowy_slopes": "2025-02-02 20:29:24 +0000",
       "minecraft:taiga": "2025-02-02 20:15:25 +0000",
       "minecraft:sunflower_plains": "2025-02-02 23:28:49 +0000",
+      "minecraft:cherry_grove": "2025-02-03 00:38:03 +0000",
       "minecraft:beach": "2025-02-02 22:53:15 +0000",
       "minecraft:river": "2025-02-02 20:24:39 +0000",
       "minecraft:stony_shore": "2025-02-02 20:15:20 +0000",
@@ -1778,15 +1779,21 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
+      "has_iron_nugget": "2025-02-02 22:45:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "has_diamond": "2025-02-02 23:06:20 +0000"
+      "location0": "2025-02-02 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-02-02 22:56:56 +0000"
     },
     "done": true
   },
@@ -1796,45 +1803,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+  "twilightforest:hedge": {
     "criteria": {
-      "has_item": "2025-02-02 23:11:03 +0000"
+      "hedge_spider": "2025-02-02 23:06:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-02-02 23:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-02 23:19:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-02-02 23:11:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
+      "has_diamond": "2025-02-02 23:06:20 +0000"
     },
     "done": true
   },
@@ -1850,99 +1827,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-02-02 23:09:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-02 23:06:20 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-02-02 23:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-02-02 23:11:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/comet_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-02 23:06:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
     },
     "done": true
   },
@@ -1958,33 +1851,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-02 23:06:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2025-02-02 23:10:15 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-02-02 22:54:08 +0000"
     },
     "done": true
   },
@@ -1994,51 +1863,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-02-02 23:10:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-02-02 23:19:21 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-02 23:16:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-02 23:06:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-02 23:17:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-02-02 23:06:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "in_tf": "2025-02-02 22:56:56 +0000"
     },
     "done": true
   },
@@ -2054,15 +1881,273 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "has_iron_nugget": "2025-02-02 22:45:18 +0000"
+      "has_item": "2025-02-02 23:06:21 +0000"
     },
     "done": true
   },
-  "twilightforest:hedge": {
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
     "criteria": {
-      "hedge_spider": "2025-02-02 23:06:02 +0000"
+      "has_item": "2025-02-02 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-02 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-02 23:10:15 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-02 23:10:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-02 23:11:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-02-02 23:11:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-02 23:11:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-02 23:11:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-02 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-02 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-02 23:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-02 23:19:21 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-02-03 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-02-03 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-03 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-02-03 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-02-03 00:35:03 +0000"
     },
     "done": true
   },
