@@ -32,6 +32,8 @@
       "minecraft:stony_shore": "2025-02-03 17:25:08 +0000",
       "minecraft:forest": "2025-02-03 16:49:04 +0000",
       "minecraft:flower_forest": "2025-02-03 17:24:49 +0000",
+      "minecraft:deep_dark": "2025-02-03 18:20:42 +0000",
+      "minecraft:meadow": "2025-02-03 18:27:54 +0000",
       "minecraft:plains": "2025-02-03 16:55:42 +0000"
     },
     "done": false
@@ -437,7 +439,8 @@
       "cooked_mutton": "2025-02-03 17:17:42 +0000",
       "apple": "2025-02-03 17:49:13 +0000",
       "potato": "2025-02-03 17:48:29 +0000",
-      "bread": "2025-02-03 16:56:33 +0000"
+      "bread": "2025-02-03 16:56:33 +0000",
+      "carrot": "2025-02-03 18:25:14 +0000"
     },
     "done": false
   },
@@ -677,6 +680,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-03 18:27:13 +0000",
       "minecraft:spider": "2025-02-03 17:02:01 +0000",
       "minecraft:enderman": "2025-02-03 17:02:12 +0000",
       "minecraft:zombie": "2025-02-03 17:24:20 +0000",
@@ -1266,9 +1270,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-03 18:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-03 18:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-03 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-03 18:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-02-03 18:26:15 +0000"
     },
     "done": true
   },
@@ -1281,6 +1339,48 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-02-03 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-03 18:23:03 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-02-03 18:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-03 18:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-03 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-03 18:25:08 +0000"
     },
     "done": true
   },

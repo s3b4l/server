@@ -477,8 +477,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-03 18:20:12 +0000",
       "minecraft:spider": "2025-02-03 17:40:11 +0000",
       "minecraft:creeper": "2025-02-03 17:06:07 +0000",
+      "minecraft:silverfish": "2025-02-03 18:26:41 +0000",
       "minecraft:zombie": "2025-02-03 17:07:15 +0000"
     },
     "done": false
@@ -1266,6 +1268,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-03 16:54:05 +0000",
+      "minecraft:river": "2025-02-03 18:27:33 +0000",
       "minecraft:stony_shore": "2025-02-03 16:53:56 +0000",
       "minecraft:forest": "2025-02-03 16:53:44 +0000",
       "minecraft:deep_dark": "2025-02-03 17:00:12 +0000",
@@ -1329,6 +1332,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-03 18:20:22 +0000",
       "baked_potato": "2025-02-03 17:45:22 +0000",
       "rotten_flesh": "2025-02-03 17:07:30 +0000"
     },
