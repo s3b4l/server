@@ -700,6 +700,7 @@
       "minecraft:witch": "2025-02-04 01:21:09 +0000",
       "minecraft:wither_skeleton": "2025-02-03 00:47:38 +0000",
       "minecraft:husk": "2025-02-02 21:51:54 +0000",
+      "minecraft:cave_spider": "2025-02-04 18:13:09 +0000",
       "minecraft:enderman": "2025-02-02 21:43:52 +0000",
       "minecraft:silverfish": "2025-02-03 17:51:15 +0000",
       "minecraft:vex": "2025-02-04 17:40:20 +0000",
@@ -3667,6 +3668,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-02-04 18:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-04 17:45:43 +0000"
@@ -3691,9 +3698,21 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-02-04 18:15:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-04 17:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-04 17:51:56 +0000"
     },
     "done": true
   },
@@ -3745,6 +3764,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-02-04 17:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-04 17:52:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-04 17:45:43 +0000"
@@ -3766,6 +3797,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-02-04 17:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-04 17:52:39 +0000"
     },
     "done": true
   },
