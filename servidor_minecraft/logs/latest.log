@@ -812,3 +812,28 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 21:02:36.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
 [04Feb2025 21:02:36.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
 [04Feb2025 21:02:36.613] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[04Feb2025 21:03:17.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Me ayudan pls
+[04Feb2025 21:03:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported pitoflacido.com to Sebal]
+[04Feb2025 21:03:26.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported pitoflacido.com to Sebal]
+[04Feb2025 21:03:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> El que me ayude le doy unos pantalones de diamante
+[04Feb2025 21:04:20.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 21:05:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Creo que hay un problema
+[04Feb2025 21:05:58.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Putamare leanme la recalcadisima concha de su madre
+[04Feb2025 21:06:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni went up in flames
+[04Feb2025 21:06:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Es que por el mod del nether no se puede
+[04Feb2025 21:07:22.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 burned to death
+[04Feb2025 21:07:30.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
+[04Feb2025 21:07:30.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
+[04Feb2025 21:08:04.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 21:09:18.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maaxz_dou[/100.99.176.124:61672] logged in with entity id 283400 at (-845.4097220046638, 111.0, 1234.5860496548632)
+[04Feb2025 21:09:18.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maaxz_dou
+[04Feb2025 21:09:18.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maaxz_dou
+[04Feb2025 21:09:18.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maaxz_dou
+[04Feb2025 21:09:18.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maaxz_dou
+[04Feb2025 21:09:18.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maaxz_dou
+[04Feb2025 21:09:19.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maaxz_dou
+[04Feb2025 21:09:19.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maaxz_dou
+[04Feb2025 21:09:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou joined the game
+[04Feb2025 21:09:19.058] [Server thread/INFO] [Jade/]: Syncing config to Maaxz_dou (b29d52d7-4387-3f36-b2f7-5374273ee356)
+[04Feb2025 21:11:55.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Che me tepean a donde estan ?
+[04Feb2025 21:12:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Deni to Sebal]
