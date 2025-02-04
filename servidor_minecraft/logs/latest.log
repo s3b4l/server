@@ -4797,3 +4797,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [04Feb2025 22:12:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to Ghosty_X4]
 [04Feb2025 22:12:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
 [04Feb2025 22:14:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to Ghosty_X4]
+[04Feb2025 22:17:34.256] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 22:20:36.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported Ghosty_X4 to alaresttv]
+[04Feb2025 22:22:28.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported Ghosty_X4 to alaresttv]
+[04Feb2025 22:22:46.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Into Fire]
+[04Feb2025 22:26:27.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv fell from a high place
+[04Feb2025 22:27:55.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was doomed to fall
+[04Feb2025 22:28:27.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou tried to swim in lava
+[04Feb2025 22:28:29.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Speed to Maaxz_dou]
+[04Feb2025 22:31:52.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[04Feb2025 22:31:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[04Feb2025 22:32:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was slain by Wither Skeleton
+[04Feb2025 22:33:54.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Ghosty_X4]
