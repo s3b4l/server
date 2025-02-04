@@ -534,3 +534,19 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 18:48:55.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25d9371a[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:51609) lost connection: Disconnected
 [04Feb2025 18:49:28.532] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@288057d7[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:51611) lost connection: Disconnected
 [04Feb2025 18:50:16.079] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f4dd34a[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:51617) lost connection: Disconnected
+[04Feb2025 18:52:28.504] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
+[04Feb2025 18:52:28.504] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Feb2025 18:52:28.535] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c6e65bd[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:51622) lost connection: Connection closed - mismatched mod channel list
+[04Feb2025 18:54:07.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
+[04Feb2025 18:57:49.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[04Feb2025 18:57:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
+[04Feb2025 19:00:36.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deni[/100.122.191.7:51756] logged in with entity id 138667 at (48.29082234377186, 53.0, -125.61933471878237)
+[04Feb2025 19:00:36.700] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Deni
+[04Feb2025 19:00:36.700] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Deni
+[04Feb2025 19:00:36.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Deni
+[04Feb2025 19:00:36.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Deni
+[04Feb2025 19:00:36.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Deni
+[04Feb2025 19:00:36.704] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Deni
+[04Feb2025 19:00:36.704] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Deni
+[04Feb2025 19:00:36.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni joined the game
+[04Feb2025 19:00:36.719] [Server thread/INFO] [Jade/]: Syncing config to Deni (1118c6e0-43ec-3ee5-b593-4ec682347e8a)
