@@ -2191,6 +2191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/wooden_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 19:30:14 +0000"
@@ -2215,6 +2227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-02-04 19:51:50 +0000"
@@ -2236,6 +2260,12 @@
   "simplytools:recipes/tools/diamond_hammer": {
     "criteria": {
       "criterion1": "2025-02-04 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-04 20:32:17 +0000"
     },
     "done": true
   },
@@ -2281,15 +2311,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 20:36:12 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/wooden_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-04 19:30:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
     },
     "done": true
   },
@@ -2305,9 +2371,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 20:36:12 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/stone_hammer": {
     "criteria": {
       "criterion1": "2025-02-04 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
     },
     "done": true
   },
