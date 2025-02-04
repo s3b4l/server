@@ -4785,3 +4785,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [04Feb2025 22:04:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deni left the game
 [04Feb2025 22:04:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was slain by Enderman
 [04Feb2025 22:04:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv was doomed to fall by Straddler
+[04Feb2025 22:04:42.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv tried to swim in lava to escape Wither Skeleton
+[04Feb2025 22:05:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Fire Resistance to alaresttv]
+[04Feb2025 22:05:23.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
+[04Feb2025 22:05:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
+[04Feb2025 22:05:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
+[04Feb2025 22:08:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Gave 32 [Block of Iron] to alaresttv]
+[04Feb2025 22:09:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported Maaxz_dou to alaresttv]
+[04Feb2025 22:10:26.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Hot Stuff]
+[04Feb2025 22:11:23.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Speed to Maaxz_dou]
+[04Feb2025 22:12:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to Ghosty_X4]
+[04Feb2025 22:12:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
+[04Feb2025 22:14:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to Ghosty_X4]
