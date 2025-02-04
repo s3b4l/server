@@ -588,7 +588,9 @@
       "fir_clearing": "2025-02-03 20:44:40 +0000",
       "pumpkin_patch": "2025-02-03 20:58:12 +0000",
       "prairie": "2025-02-02 22:44:49 +0000",
-      "gravel_beach": "2025-02-02 22:43:30 +0000"
+      "grassland": "2025-02-04 17:16:55 +0000",
+      "gravel_beach": "2025-02-02 22:43:30 +0000",
+      "ominous_woods": "2025-02-04 17:38:18 +0000"
     },
     "done": false
   },
@@ -1224,7 +1226,9 @@
       "minecraft:skeleton": "2025-02-02 22:21:58 +0000",
       "minecraft:spider": "2025-02-02 22:22:57 +0000",
       "minecraft:creeper": "2025-02-03 21:02:19 +0000",
+      "minecraft:cave_spider": "2025-02-04 17:17:59 +0000",
       "minecraft:enderman": "2025-02-03 21:15:37 +0000",
+      "minecraft:silverfish": "2025-02-04 17:14:21 +0000",
       "minecraft:zombie": "2025-02-02 21:41:31 +0000"
     },
     "done": false
@@ -2292,6 +2296,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-04 17:06:21 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/wooden_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 17:08:47 +0000"
@@ -2328,12 +2338,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-02-04 17:06:21 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/netherite_hammer": {
     "criteria": {
       "criterion1": "2025-02-04 17:08:47 +0000"
@@ -2367,6 +2371,120 @@
   "simplytools:recipes/tools/wooden_hammer": {
     "criteria": {
       "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-02-04 17:18:10 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 17:18:12 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 17:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-04 17:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-04 17:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-04 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-04 17:31:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-04 17:31:25 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 17:32:37 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 17:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-04 17:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-04 17:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-04 17:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-04 17:33:03 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 17:35:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 17:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 17:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-04 17:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 17:37:02 +0000"
     },
     "done": true
   },

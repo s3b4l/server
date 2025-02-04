@@ -340,3 +340,57 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 17:16:54.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to alaresttv]
 [04Feb2025 17:18:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [A True Source of Evil]
 [04Feb2025 17:18:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:18:33.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
+[04Feb2025 17:19:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:21:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:22:02.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
+[04Feb2025 17:22:08.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:22:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [Hot Stuff]
+[04Feb2025 17:23:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[04Feb2025 17:24:15.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [Enchanter]
+[04Feb2025 17:24:20.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:24:20.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:24:52.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:25:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
+[04Feb2025 17:26:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:26:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[04Feb2025 17:27:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
+[04Feb2025 17:31:45.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 17:31:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:32:52.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69480, l='ServerLevel[world]', x=106.70, y=100.75, z=319.47] died, message: 'Unemployed was slain by Sebal'
+[04Feb2025 17:33:34.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:33:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 17:34:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [You Are A Pirate]
+[04Feb2025 17:36:05.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:36:08.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 17:36:40.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: electrodinamixxx lost connection: Disconnected
+[04Feb2025 17:36:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx left the game
+[04Feb2025 17:36:48.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: electrodinamixxx[/100.80.232.16:52670] logged in with entity id 77730 at (689.436996601759, 92.0, -451.69999998807907)
+[04Feb2025 17:36:48.990] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to electrodinamixxx
+[04Feb2025 17:36:48.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to electrodinamixxx
+[04Feb2025 17:36:48.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to electrodinamixxx
+[04Feb2025 17:36:48.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to electrodinamixxx
+[04Feb2025 17:36:48.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to electrodinamixxx
+[04Feb2025 17:36:48.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to electrodinamixxx
+[04Feb2025 17:36:48.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to electrodinamixxx
+[04Feb2025 17:36:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx joined the game
+[04Feb2025 17:36:49.020] [Server thread/INFO] [Jade/]: Syncing config to electrodinamixxx (dae05757-d208-3c5d-ac01-8228b385d1ce)
+[04Feb2025 17:36:52.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Timed out
+[04Feb2025 17:36:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[04Feb2025 17:36:52.685] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 17:37:02.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [Ice Bucket Challenge]
+[04Feb2025 17:37:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:38:08.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:65360] logged in with entity id 78936 at (-847.5, 111.0, 1230.5)
+[04Feb2025 17:38:08.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[04Feb2025 17:38:08.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[04Feb2025 17:38:08.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[04Feb2025 17:38:08.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[04Feb2025 17:38:08.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[04Feb2025 17:38:08.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[04Feb2025 17:38:08.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[04Feb2025 17:38:08.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[04Feb2025 17:38:08.821] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[04Feb2025 17:38:18.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[04Feb2025 17:38:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Vindicator
+[04Feb2025 17:38:24.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx was slain by Vindicator
+[04Feb2025 17:38:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
