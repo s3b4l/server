@@ -579,6 +579,8 @@
       "withered_abyss": "2025-02-03 21:15:21 +0000",
       "field": "2025-02-02 21:35:38 +0000",
       "coniferous_forest": "2025-02-02 21:20:29 +0000",
+      "forested_field": "2025-02-04 17:04:19 +0000",
+      "spider_nest": "2025-02-04 17:08:24 +0000",
       "redwood_forest": "2025-02-03 17:16:12 +0000",
       "aspen_glade": "2025-02-03 20:45:32 +0000",
       "seasonal_forest": "2025-02-02 22:41:47 +0000",
@@ -2287,6 +2289,84 @@
   "simplytools:recipes/tools/stone_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-03 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-04 17:06:21 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 17:08:47 +0000"
     },
     "done": true
   },

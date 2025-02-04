@@ -315,3 +315,28 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 17:07:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
 [04Feb2025 17:07:24.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
 [04Feb2025 17:07:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:08:44.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
+[04Feb2025 17:09:33.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:09:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:11:51.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:11:53.128] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[04Feb2025 17:11:53.129] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[04Feb2025 17:11:53.167] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[04Feb2025 17:11:53.168] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[04Feb2025 17:11:53.168] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[04Feb2025 17:11:53.169] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[04Feb2025 17:11:53.170] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[04Feb2025 17:11:53.189] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[04Feb2025 17:11:53.190] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[04Feb2025 17:11:53.191] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[04Feb2025 17:12:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:13:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:13:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:14:21.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:14:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
+[04Feb2025 17:16:10.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:16:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
+[04Feb2025 17:16:32.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 17:16:54.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to alaresttv]
+[04Feb2025 17:18:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx has made the advancement [A True Source of Evil]
+[04Feb2025 17:18:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
