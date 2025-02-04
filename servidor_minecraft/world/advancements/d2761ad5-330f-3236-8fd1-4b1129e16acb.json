@@ -33,6 +33,7 @@
       "minecraft:dark_forest": "2025-02-04 01:54:40 +0000",
       "minecraft:river": "2025-02-02 20:48:31 +0000",
       "minecraft:stony_shore": "2025-02-02 20:13:33 +0000",
+      "minecraft:dripstone_caves": "2025-02-04 16:33:14 +0000",
       "minecraft:grove": "2025-02-02 21:18:13 +0000",
       "minecraft:forest": "2025-02-02 20:13:45 +0000",
       "minecraft:lush_caves": "2025-02-02 22:05:22 +0000",
@@ -406,6 +407,7 @@
       "cooked_mutton": "2025-02-02 20:27:36 +0000",
       "cooked_beef": "2025-02-02 20:19:57 +0000",
       "apple": "2025-02-03 22:34:06 +0000",
+      "cooked_cod": "2025-02-04 16:32:43 +0000",
       "bread": "2025-02-04 01:27:30 +0000",
       "cooked_chicken": "2025-02-02 20:29:35 +0000"
     },
@@ -2344,177 +2346,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:32:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:32:33 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_thornborn_towers": {
-    "criteria": {
-      "location0": "2025-02-04 01:19:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-02-04 01:38:54 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/starlit_spear": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/wooden_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-03 23:33:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/bluebright_spear": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2025-02-04 01:38:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-02-04 01:55:29 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/wooden_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-02-04 01:58:28 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/diamond_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-03 23:26:27 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/iron_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:32:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-04 01:55:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-02-04 01:52:32 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_moonstone_shard": {
-    "criteria": {
-      "obtain_moonstone_shard": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:32:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/maple_spear": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-02-04 01:23:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-02-03 23:42:24 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/comet_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-03 23:30:19 +0000"
     },
     "done": true
   },
@@ -2524,195 +2358,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-02-04 01:55:15 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-04 01:23:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/stone_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-04 01:23:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-02-04 00:33:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-02-04 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/netherite_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-02-04 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/netherite_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/golden_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/frostbright_spear": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/iron_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-02-03 23:47:37 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/lunar_spear": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/golden_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/iron_excavator_head": {
     "criteria": {
       "criterion0": "2025-02-03 23:26:27 +0000"
     },
     "done": true
   },
-  "simplytools:recipes/tools/wooden_hammer_head": {
-    "criteria": {
-      "criterion0": "2025-02-03 23:33:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
-    "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-03 23:26:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2025-02-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-02-04 01:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-02-04 01:55:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-02-04 01:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-02-03 23:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:32:33 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-02-04 01:30:39 +0000"
     },
     "done": true
   },
@@ -2728,9 +2382,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "simplytools:recipes/tools/iron_hammer_head": {
     "criteria": {
-      "has_salmon": "2025-02-04 01:55:26 +0000"
+      "criterion0": "2025-02-03 23:26:27 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-03 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:33:06 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:33:06 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-03 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-03 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-03 23:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-03 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-03 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-03 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-04 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-04 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-02-04 00:42:00 +0000"
     },
     "done": true
   },
@@ -2746,51 +2604,93 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
-      "has_backpack": "2025-02-03 23:35:05 +0000"
+      "has_item": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "simplytools:recipes/tools/iron_hammer_head": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "criterion0": "2025-02-03 23:26:27 +0000"
+      "has_book": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
-      "has_water_bucket": "2025-02-04 01:55:23 +0000"
+      "has_item": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
-      "has_sand": "2025-02-04 01:58:28 +0000"
+      "has_item": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "simplytools:recipes/tools/stone_hammer": {
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
+      "has_item": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_bricks": "2025-02-04 01:32:33 +0000"
+      "has_book": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_cod": "2025-02-04 01:55:29 +0000"
+      "has_book": "2025-02-04 01:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
-      "has_slime_ball": "2025-02-03 23:47:37 +0000"
+      "has_item": "2025-02-04 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-04 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-04 01:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-04 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-04 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-04 01:19:50 +0000"
     },
     "done": true
   },
@@ -2800,9 +2700,129 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_item": "2025-02-04 01:08:44 +0000"
+      "has_honeycomb": "2025-02-04 01:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-02-04 01:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-04 01:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-04 01:23:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-04 01:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-02-04 01:38:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-04 01:38:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-04 01:52:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-02-04 01:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-04 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-04 01:55:29 +0000"
     },
     "done": true
   },
@@ -2818,33 +2838,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_red_wool": "2025-02-04 01:19:50 +0000"
+      "has_smelts_to_glass": "2025-02-04 01:58:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_honeycomb": "2025-02-04 01:23:08 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/stone_hammer_head": {
-    "criteria": {
-      "criterion0": "2025-02-03 23:26:27 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/wooden_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:33:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-02-03 23:35:05 +0000"
+      "has_sand": "2025-02-04 01:58:28 +0000"
     },
     "done": true
   },

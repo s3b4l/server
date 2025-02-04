@@ -1,426 +1,273 @@
-[04Feb2025 00:00:22.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
-[04Feb2025 00:01:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Light Up The World!]
-[04Feb2025 00:05:58.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:58.921] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:58.949] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.036] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.048] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.105] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.118] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.312] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.335] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.431] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.444] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.472] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.478] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.562] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.568] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:05:59.600] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Feb2025 00:06:00.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
-[04Feb2025 00:06:00.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv moved too quickly! 9.813620286644323,-1.2491870787446828,1.8070118255907346
-[04Feb2025 00:06:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to alaresttv]
-[04Feb2025 00:10:10.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to alaresttv]
-[04Feb2025 00:19:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Voluntary Exile]
-[04Feb2025 00:22:24.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to alaresttv]
-[04Feb2025 00:28:49.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3660, l='ServerLevel[world]', x=-988.50, y=123.00, z=1165.70] died, message: 'Nitwit was shot by Pillager'
-[04Feb2025 00:29:28.992] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 00:29:28.993] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 00:29:29.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16d799f3[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:54202) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 00:29:39.494] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 00:29:39.494] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 00:29:39.498] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63411503[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:54223) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 00:29:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [A Seedy Place]
-[04Feb2025 00:29:51.334] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 00:29:51.334] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 00:29:51.350] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30f044c0[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:54233) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 00:30:18.556] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 00:30:18.556] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 00:30:18.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67a99d9[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:54249) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 00:30:33.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Voluntary Exile]
-[04Feb2025 00:31:55.244] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4be5fcdc[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:54999) lost connection: Disconnected
-[04Feb2025 00:31:59.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Ravager
-[04Feb2025 00:32:35.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebal[/100.125.15.17:55034] logged in with entity id 28411 at (-845.598871613909, 111.0, 1233.2687431664874)
-[04Feb2025 00:32:35.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebal
-[04Feb2025 00:32:35.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebal
-[04Feb2025 00:32:35.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebal
-[04Feb2025 00:32:35.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebal
-[04Feb2025 00:32:35.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebal
-[04Feb2025 00:32:35.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebal
-[04Feb2025 00:32:35.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
-[04Feb2025 00:32:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
-[04Feb2025 00:32:35.432] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
-[04Feb2025 00:33:01.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has completed the challenge [Hero of the Village]
-[04Feb2025 00:33:01.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has completed the challenge [Hero of the Village]
-[04Feb2025 00:33:01.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has completed the challenge [Hero of the Village]
-[04Feb2025 00:33:05.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6cfc790[id=<null>,name=Deni,properties={},legacy=false] (/100.122.191.7:54264) lost connection: Disconnected
-[04Feb2025 00:33:11.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:33:28.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> estan conquistando?
-[04Feb2025 00:34:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:35:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:35:33.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:35:53.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:36:20.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:36:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:36:46.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
-[04Feb2025 00:42:00.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Light Up The World!]
-[04Feb2025 00:49:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
-[04Feb2025 00:50:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
-[04Feb2025 00:51:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Cover Me with Diamonds]
-[04Feb2025 00:55:06.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal moved wrongly!
-[04Feb2025 00:55:14.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
-[04Feb2025 00:55:14.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
-[04Feb2025 00:55:31.247] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23cf62f9[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:55236) lost connection: Disconnected
-[04Feb2025 00:55:42.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bfddfaa[id=<null>,name=Sebal,properties={},legacy=false] (/100.125.15.17:55238) lost connection: Disconnected
-[04Feb2025 00:56:19.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebal[/100.125.15.17:55264] logged in with entity id 36903 at (-118.97957232290497, 101.0, -554.275666669038)
-[04Feb2025 00:56:19.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebal
-[04Feb2025 00:56:19.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebal
-[04Feb2025 00:56:19.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebal
-[04Feb2025 00:56:19.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebal
-[04Feb2025 00:56:19.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebal
-[04Feb2025 00:56:19.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebal
-[04Feb2025 00:56:19.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
-[04Feb2025 00:56:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
-[04Feb2025 00:56:19.927] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
-[04Feb2025 00:59:31.898] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[04Feb2025 00:59:31.898] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[04Feb2025 01:01:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [You Are A Pirate]
-[04Feb2025 01:05:15.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [What a Deal!]
-[04Feb2025 01:08:30.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/49147, l='ServerLevel[world]', x=101.72, y=65.56, z=-4031.37] died, message: 'Unemployed suffocated in a wall'
-[04Feb2025 01:09:12.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/49090, l='ServerLevel[world]', x=86.50, y=61.00, z=-4015.37] died, message: 'Unemployed froze to death'
-[04Feb2025 01:16:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzzzzz
-[04Feb2025 01:16:32.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzzzzzzzz
-[04Feb2025 01:16:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zzzzzz
-[04Feb2025 01:16:34.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzzzzzzzzz
-[04Feb2025 01:16:34.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zzzzz
-[04Feb2025 01:16:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zz
-[04Feb2025 01:16:35.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:37.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zzzz
-[04Feb2025 01:16:37.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zzz
-[04Feb2025 01:16:38.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:38.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:39.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:40.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:40.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:41.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:41.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:41.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:41.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzz
-[04Feb2025 01:16:41.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:42.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:42.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:42.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:42.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzz
-[04Feb2025 01:16:43.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:43.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:43.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:43.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:43.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:43.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:43.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:44.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:44.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:44.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:44.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zzz
-[04Feb2025 01:16:44.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:44.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:44.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:45.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:45.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:45.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:45.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:45.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:45.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:45.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:45.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:46.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:46.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:46.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:47.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:47.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:47.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:47.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:47.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:47.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:47.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:47.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:48.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:48.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:48.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:48.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:48.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:49.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:49.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:49.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:49.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:49.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:50.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> zz
-[04Feb2025 01:16:50.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:50.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:50.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:51.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzzz
-[04Feb2025 01:16:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:51.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:51.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:51.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:52.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:52.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:53.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> z
-[04Feb2025 01:16:53.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:53.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
-[04Feb2025 01:16:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:16:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
-[04Feb2025 01:17:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzzz
-[04Feb2025 01:17:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzzz
-[04Feb2025 01:17:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:13.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:14.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzz
-[04Feb2025 01:17:14.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:14.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzz
-[04Feb2025 01:17:15.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> z
-[04Feb2025 01:17:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zz
-[04Feb2025 01:17:16.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzz
-[04Feb2025 01:17:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzzz
-[04Feb2025 01:17:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzzzzz
-[04Feb2025 01:17:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zz
-[04Feb2025 01:17:19.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzz
-[04Feb2025 01:17:19.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzzz
-[04Feb2025 01:17:20.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maaxz_dou> zzzzz
-[04Feb2025 01:17:22.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
-[04Feb2025 01:17:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
-[04Feb2025 01:18:31.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:18:35.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:19:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Guns and Roses]
-[04Feb2025 01:19:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Guns and Roses]
-[04Feb2025 01:19:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Guns and Roses]
-[04Feb2025 01:19:19.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal moved wrongly!
-[04Feb2025 01:20:47.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:21:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Take Aim]
-[04Feb2025 01:22:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was doomed to fall by Skeleton
-[04Feb2025 01:23:03.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:23:36.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:23:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Skeleton
-[04Feb2025 01:23:57.057] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[04Feb2025 01:23:57.058] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
-[04Feb2025 01:23:57.058] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[04Feb2025 01:23:57.058] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[04Feb2025 01:23:57.058] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[04Feb2025 01:24:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:25:07.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Skeleton
-[04Feb2025 01:25:29.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:26:56.831] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 01:26:56.832] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 01:26:56.853] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fa62985[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:52399) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 01:27:07.862] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 01:27:07.862] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 01:27:07.908] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f6511b[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:52420) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 01:27:50.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@654eb5aa[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:52435): Took too long to log in
-[04Feb2025 01:27:50.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@654eb5aa[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:52435) lost connection: Took too long to log in
-[04Feb2025 01:27:50.216] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[04Feb2025 01:27:59.726] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [libx:netchannel,trashslot:network] rejected their client side version number
-[04Feb2025 01:27:59.726] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Feb2025 01:27:59.753] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bb30225[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:52449) lost connection: Connection closed - mismatched mod channel list
-[04Feb2025 01:28:12.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal fell from a high place
-[04Feb2025 01:28:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Skeleton
-[04Feb2025 01:29:08.561] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6df6a9b4[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:52466) lost connection: Disconnected
-[04Feb2025 01:29:41.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was doomed to fall by Skeleton
-[04Feb2025 01:29:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:30:04.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was slain by Skeleton
-[04Feb2025 01:30:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Set the time to 1000]
-[04Feb2025 01:30:21.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou suffocated in a wall
-[04Feb2025 01:30:51.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:32:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Ghosty_X4]
-[04Feb2025 01:32:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 fell from a high place
-[04Feb2025 01:32:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:33:28.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal was slain by Skeleton
-[04Feb2025 01:33:28.800] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[04Feb2025 01:33:28.801] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
-[04Feb2025 01:33:28.801] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[04Feb2025 01:33:28.801] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[04Feb2025 01:33:28.801] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
-[04Feb2025 01:33:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was doomed to fall by Skeleton
-[04Feb2025 01:33:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 fell from a high place
-[04Feb2025 01:33:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:34:06.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Skeleton
-[04Feb2025 01:34:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal was doomed to fall by Skeleton
-[04Feb2025 01:34:50.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:37:25.591] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[04Feb2025 01:37:25.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[04Feb2025 01:37:25.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[04Feb2025 01:38:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was doomed to fall by Skeleton
-[04Feb2025 01:38:45.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:40:14.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was doomed to fall by Skeleton
-[04Feb2025 01:40:23.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:41:26.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was shot by Skeleton
-[04Feb2025 01:41:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:41:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:44:31.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:44:40.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
-[04Feb2025 01:44:46.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Ghosty_X4]
-[04Feb2025 01:48:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to Ghosty_X4]
-[04Feb2025 01:49:10.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:49:23.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:49:28.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:50:03.150] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[04Feb2025 01:50:03.150] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[04Feb2025 01:50:03.150] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[04Feb2025 01:50:03.150] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[04Feb2025 01:50:03.150] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[04Feb2025 01:50:03.151] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[04Feb2025 01:50:03.151] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[04Feb2025 01:50:03.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[04Feb2025 01:50:03.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[04Feb2025 01:50:03.210] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[04Feb2025 01:50:03.211] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[04Feb2025 01:50:03.211] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[04Feb2025 01:50:03.219] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[04Feb2025 01:50:03.219] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[04Feb2025 01:50:03.220] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[04Feb2025 01:50:04.293] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[04Feb2025 01:50:04.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[04Feb2025 01:50:04.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[04Feb2025 01:50:04.295] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[04Feb2025 01:50:04.682] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[04Feb2025 01:50:04.682] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[04Feb2025 01:50:04.683] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[04Feb2025 01:50:04.683] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[04Feb2025 01:50:49.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:50:57.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:51:10.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:51:14.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:51:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:51:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:52:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:52:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:52:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Jaws]
-[04Feb2025 01:52:32.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Jaws]
-[04Feb2025 01:52:38.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Jaws]
-[04Feb2025 01:53:42.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:53:58.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:54:10.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[04Feb2025 01:54:10.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[04Feb2025 01:54:19.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:54:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:54:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:55:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:56:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:56:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:56:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:56:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:56:21.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:56:22.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:56:31.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:56:38.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:57:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> teleport sebal
-[04Feb2025 01:57:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:57:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:57:20.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:57:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:57:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 01:57:42.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 01:57:48.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Set the time to 1000]
-[04Feb2025 01:58:07.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Cursed Pyramid]
-[04Feb2025 01:58:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou has made the advancement [Cursed Pyramid]
-[04Feb2025 01:58:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal has made the advancement [Cursed Pyramid]
-[04Feb2025 01:58:42.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 02:00:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
-[04Feb2025 02:00:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Sebal]
-[04Feb2025 02:00:19.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebal lost connection: Disconnected
-[04Feb2025 02:00:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal left the game
-[04Feb2025 02:00:21.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
-[04Feb2025 02:00:21.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
-[04Feb2025 02:00:53.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maaxz_dou lost connection: Disconnected
-[04Feb2025 02:00:53.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou left the game
-[04Feb2025 02:01:47.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Feb2025 02:01:47.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Feb2025 02:01:47.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Feb2025 02:01:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04Feb2025 02:01:47.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[04Feb2025 02:01:47.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04Feb2025 02:01:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[04Feb2025 02:01:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[04Feb2025 02:01:47.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Feb2025 02:01:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04Feb2025 02:01:48.038] [Server thread/INFO] [Framework/]: Unloading server configs...
-[04Feb2025 02:01:48.039] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[04Feb2025 02:01:48.042] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[04Feb2025 02:01:48.043] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Feb2025 16:27:33.186] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04Feb2025 16:27:33.191] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[04Feb2025 16:27:34.729] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Feb2025 16:27:34.800] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Feb2025 16:27:35.214] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 16:27:35.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 16:27:35.218] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 16:27:35.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 16:27:35.404] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[04Feb2025 16:27:35.406] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[04Feb2025 16:27:38.376] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Feb2025 16:27:38.728] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Feb2025 16:27:38.789] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Feb2025 16:27:40.701] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[04Feb2025 16:27:49.827] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[04Feb2025 16:27:50.446] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.449] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.449] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.461] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.461] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.462] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.463] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[04Feb2025 16:27:50.788] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Feb2025 16:27:50.788] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Feb2025 16:27:51.050] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[04Feb2025 16:27:51.554] [modloading-worker-0/WARN] [ModdingLegacy/Lucent/]: [lucent] LUCENT IS A CLIENT SIDE MOD. IT DOES NOT NEED TO BE INSTALLED ON THE SERVER.
+[04Feb2025 16:27:51.840] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Feb2025 16:27:55.636] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[04Feb2025 16:27:56.292] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[04Feb2025 16:27:56.306] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[04Feb2025 16:27:56.310] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[04Feb2025 16:27:56.312] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[04Feb2025 16:27:57.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[04Feb2025 16:27:57.194] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[04Feb2025 16:27:57.322] [main/INFO] [journeymap/]: Initializing Packet Registries
+[04Feb2025 16:27:57.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.5 Target: 1.19.6
+[04Feb2025 16:27:57.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[04Feb2025 16:27:57.424] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Feb2025 16:27:57.425] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Feb2025 16:27:57.425] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[04Feb2025 16:27:57.425] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[04Feb2025 16:27:57.426] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[04Feb2025 16:27:57.426] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[04Feb2025 16:27:57.427] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[04Feb2025 16:27:57.535] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[04Feb2025 16:27:57.537] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[04Feb2025 16:27:57.613] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[04Feb2025 16:27:57.623] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[04Feb2025 16:27:57.624] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04Feb2025 16:27:57.638] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04Feb2025 16:27:57.645] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04Feb2025 16:27:57.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[04Feb2025 16:27:57.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[04Feb2025 16:27:58.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[04Feb2025 16:27:58.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[04Feb2025 16:27:58.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[04Feb2025 16:27:58.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[04Feb2025 16:27:58.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.49 Target: 1.2.51
+[04Feb2025 16:27:58.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[04Feb2025 16:27:59.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[04Feb2025 16:27:59.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Starting version check at https://assets.melanx.de/updates/libx.json
+[04Feb2025 16:27:59.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Found status: OUTDATED Current: 1.20.1-5.0.5 Target: 1.20.1-5.0.12
+[04Feb2025 16:27:59.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[04Feb2025 16:27:59.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[04Feb2025 16:27:59.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[04Feb2025 16:27:59.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[04Feb2025 16:27:59.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[04Feb2025 16:28:00.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[04Feb2025 16:28:00.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Feb2025 16:28:00.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[04Feb2025 16:28:00.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[04Feb2025 16:28:00.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[04Feb2025 16:28:00.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[04Feb2025 16:28:00.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[04Feb2025 16:28:00.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[04Feb2025 16:28:01.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
+[04Feb2025 16:28:01.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ancore] Starting version check at https://addons-ecs.forgesvc.net/api/v2/addon/1083162
+[04Feb2025 16:28:01.330] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.ConnectException: null
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.7.jar%23212!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.7.jar%23212!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23212!/:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1083) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+Caused by: java.nio.channels.UnresolvedAddressException
+	at sun.nio.ch.Net.checkAddress(Net.java:149) ~[?:?]
+	at sun.nio.ch.Net.checkAddress(Net.java:157) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.checkRemote(SocketChannelImpl.java:816) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:839) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+[04Feb2025 16:28:01.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[04Feb2025 16:28:01.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[04Feb2025 16:28:01.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Starting version check at http://changelogs.moddinglegacy.com/lucent.json
+[04Feb2025 16:28:01.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Found status: BETA Current: 1.5.5 Target: null
+[04Feb2025 16:28:01.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Starting version check at https://assets.melanx.de/updates/simply-tools.json
+[04Feb2025 16:28:01.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Found status: UP_TO_DATE Current: 1.20.1-2.0.8 Target: null
+[04Feb2025 16:28:01.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[04Feb2025 16:28:02.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[04Feb2025 16:28:03.343] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Feb2025 16:28:07.309] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
+[04Feb2025 16:28:07.310] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
+[04Feb2025 16:28:09.846] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04Feb2025 16:28:11.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[04Feb2025 16:28:11.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[04Feb2025 16:28:11.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[04Feb2025 16:28:11.497] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[04Feb2025 16:28:11.529] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[04Feb2025 16:28:11.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[04Feb2025 16:28:11.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[04Feb2025 16:28:11.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[04Feb2025 16:28:11.541] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[04Feb2025 16:28:11.763] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2935 advancements
+[04Feb2025 16:28:11.769] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[04Feb2025 16:28:11.772] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[04Feb2025 16:28:11.773] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[04Feb2025 16:28:11.774] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[04Feb2025 16:28:11.801] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[04Feb2025 16:28:11.804] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[04Feb2025 16:28:11.805] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[04Feb2025 16:28:11.805] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[04Feb2025 16:28:11.828] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[04Feb2025 16:28:11.854] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[04Feb2025 16:28:11.864] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[04Feb2025 16:28:15.329] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[04Feb2025 16:28:15.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Feb2025 16:28:15.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Feb2025 16:28:15.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Feb2025 16:28:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Feb2025 16:28:15.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Feb2025 16:28:15.665] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Feb2025 16:28:15.759] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Feb2025 16:28:15.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Feb2025 16:28:15.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Feb2025 16:28:15.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Feb2025 16:28:15.789] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Feb2025 16:28:15.791] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Feb2025 16:28:15.793] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Feb2025 16:28:16.013] [Server thread/INFO] [Framework/]: Loading server configs...
+[04Feb2025 16:28:16.297] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:16.399] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:16.742] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:16.746] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04Feb2025 16:28:16.746] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04Feb2025 16:28:16.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Feb2025 16:28:18.308] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:19.511] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:19.508] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:20.258] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:21.062] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:21.277] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:21.860] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:22.560] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:23.463] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:23.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Feb2025 16:28:23.769] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:24.066] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:24.769] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:26.189] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Feb2025 16:28:26.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.005] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.016] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.034] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.059] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.063] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:27.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:28.187] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:28.692] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:29.178] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 16:28:29.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[04Feb2025 16:28:30.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[04Feb2025 16:28:30.472] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6794 ms
+[04Feb2025 16:28:30.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.692s)! For help, type "help"
+[04Feb2025 16:28:30.536] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Feb2025 16:28:30.622] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[04Feb2025 16:28:30.636] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[04Feb2025 16:28:30.695] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[04Feb2025 16:28:30.696] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[04Feb2025 16:28:30.697] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[04Feb2025 16:28:30.698] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[04Feb2025 16:28:30.806] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 58787 bytes (in 6 string chunks with the size of 10000)
+[04Feb2025 16:28:41.276] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Feb2025 16:28:41.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebal[/100.125.15.17:50306] logged in with entity id 65 at (-845.8241066823205, 111.0, 1236.50537247468)
+[04Feb2025 16:28:41.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebal
+[04Feb2025 16:28:41.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebal
+[04Feb2025 16:28:41.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebal
+[04Feb2025 16:28:41.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebal
+[04Feb2025 16:28:41.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebal
+[04Feb2025 16:28:41.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebal
+[04Feb2025 16:28:41.404] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebal
+[04Feb2025 16:28:41.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal joined the game
+[04Feb2025 16:28:41.638] [Server thread/INFO] [Jade/]: Syncing config to Sebal (3fa7d8b6-483e-313e-8b84-f76523d19c45)
+[04Feb2025 16:28:45.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[04Feb2025 16:29:22.681] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2951cf45[id=<null>,name=alaresttv,properties={},legacy=false] (/100.123.205.66:64028) lost connection: Disconnected
+[04Feb2025 16:29:31.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:64035] logged in with entity id 390 at (-976.9857233578841, 121.0, 1148.2463268395195)
+[04Feb2025 16:29:31.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[04Feb2025 16:29:31.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[04Feb2025 16:29:31.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[04Feb2025 16:29:31.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[04Feb2025 16:29:31.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[04Feb2025 16:29:31.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[04Feb2025 16:29:31.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[04Feb2025 16:29:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[04Feb2025 16:29:31.330] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[04Feb2025 16:29:33.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:51168] logged in with entity id 484 at (-847.265087878674, 111.0, 1235.4150243901304)
+[04Feb2025 16:29:33.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
+[04Feb2025 16:29:33.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
+[04Feb2025 16:29:33.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
+[04Feb2025 16:29:33.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
+[04Feb2025 16:29:33.371] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
+[04Feb2025 16:29:33.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
+[04Feb2025 16:29:33.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
+[04Feb2025 16:29:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
+[04Feb2025 16:29:33.498] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[04Feb2025 16:33:00.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 16:33:13.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 16:34:44.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 fell from a high place
+[04Feb2025 16:35:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
