@@ -2406,15 +2406,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "simplytools:recipes/tools/wooden_excavator": {
     "criteria": {
-      "has_bricks": "2025-02-04 01:29:25 +0000"
+      "criterion1": "2025-02-03 23:26:34 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+  "simplytools:recipes/tools/iron_excavator": {
     "criteria": {
-      "has_item": "2025-02-04 00:01:26 +0000"
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_excavator": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-03 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-03 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-03 23:28:57 +0000"
     },
     "done": true
   },
@@ -2424,15 +2562,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "blue_skies:everbright/get_ventium": {
     "criteria": {
-      "has_bricks": "2025-02-04 01:29:25 +0000"
+      "obtain_material": "2025-02-03 23:42:14 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_thornborn_towers": {
+  "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
-      "location0": "2025-02-04 01:19:04 +0000"
+      "has_item": "2025-02-03 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-02-03 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-02-03 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-02-03 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-02-03 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-03 23:43:00 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/misc/paper_compress": {
+    "criteria": {
+      "has_item": "2025-02-03 23:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-03 23:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-04 00:00:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 00:01:26 +0000"
     },
     "done": true
   },
@@ -2454,33 +2664,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-03 23:43:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2025-02-04 01:41:32 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/misc/paper_compress": {
-    "criteria": {
-      "has_item": "2025-02-03 23:43:00 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-02-04 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/wooden_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
     },
     "done": true
   },
@@ -2490,51 +2676,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-02-03 23:28:57 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_hammer_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 00:53:21 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/iron_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-02-04 00:47:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-02-04 00:14:36 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-02-04 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:29:25 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-02-04 01:52:32 +0000"
     },
     "done": true
   },
@@ -2544,45 +2688,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-04 01:21:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:29:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-02-04 00:51:06 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2025-02-04 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-04 00:46:52 +0000"
     },
     "done": true
   },
@@ -2598,30 +2706,6 @@
     },
     "done": true
   },
-  "blue_skies:everbright/get_ventium": {
-    "criteria": {
-      "obtain_material": "2025-02-03 23:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-03 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-04 00:19:04 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/golden_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 00:05:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-02-04 00:01:26 +0000"
@@ -2634,69 +2718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-02-04 01:55:10 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-04 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/stone_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-02-04 00:33:01 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/netherite_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-04 00:14:36 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/netherite_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/golden_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
     },
     "done": true
   },
@@ -2706,45 +2730,9 @@
     },
     "done": true
   },
-  "simplytools:recipes/tools/iron_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-04 01:25:05 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/lunar_spear": {
     "criteria": {
       "has_item": "2025-02-04 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/golden_excavator": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/iron_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 00:03:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-04 00:14:36 +0000"
     },
     "done": true
   },
@@ -2754,99 +2742,15 @@
     },
     "done": true
   },
-  "simplytools:recipes/tools/golden_hammer_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 00:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-03 23:58:49 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-04 00:01:26 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/anvil_compat": {
-    "criteria": {
-      "has_item": "2025-02-03 23:42:14 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-02-04 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-03 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-04 00:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-02-04 01:29:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-04 01:25:05 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-02-04 00:00:41 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 00:53:21 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_bucket": {
-    "criteria": {
-      "has_item": "2025-02-03 23:42:14 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/stone_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-02-04 00:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
     },
     "done": true
   },
@@ -2862,9 +2766,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
     "criteria": {
-      "has_polished_andesite": "2025-02-04 01:25:05 +0000"
+      "has_item": "2025-02-04 00:01:26 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/iron_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 00:03:38 +0000"
     },
     "done": true
   },
@@ -2874,57 +2784,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "simplytools:recipes/tools/golden_excavator_head": {
     "criteria": {
-      "has_water_bucket": "2025-02-04 01:14:19 +0000"
+      "criterion0": "2025-02-04 00:05:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
-      "has_sand": "2025-02-03 23:28:57 +0000"
+      "criterion0": "2025-02-04 00:05:12 +0000"
     },
     "done": true
   },
-  "simplytools:recipes/tools/stone_hammer": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
+      "has_wool": "2025-02-04 00:14:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
-      "has_bricks": "2025-02-04 01:29:25 +0000"
+      "has_cyan_wool": "2025-02-04 00:14:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+      "has_cyan_wool": "2025-02-04 00:14:36 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/tool_box": {
+  "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
-      "has_item": "2025-02-03 23:42:14 +0000"
+      "has_cyan_wool": "2025-02-04 00:14:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "dungeons_arise:find_merchant_campsite": {
     "criteria": {
-      "has_paper": "2025-02-03 23:43:00 +0000"
+      "location0": "2025-02-04 00:14:36 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_item": "2025-02-04 00:01:26 +0000"
+      "voluntary_exile": "2025-02-04 00:19:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+      "hero_of_the_village": "2025-02-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-04 00:46:52 +0000"
     },
     "done": true
   },
@@ -2934,45 +2850,129 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-04 00:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-04 00:51:06 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 00:53:21 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 00:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-04 01:14:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-04 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-04 01:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 01:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-04 01:25:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "has_nether_bricks": "2025-02-03 23:27:20 +0000"
+      "has_bricks": "2025-02-04 01:29:25 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/ventium_block": {
+  "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
-      "has_item": "2025-02-03 23:42:14 +0000"
+      "has_bricks": "2025-02-04 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-02-04 01:41:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-04 01:52:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-02-04 01:55:10 +0000"
     },
     "done": true
   },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-02-04 01:58:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-02-03 23:42:14 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/stone_hammer_head": {
-    "criteria": {
-      "criterion0": "2025-02-03 23:26:34 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/wooden_hammer": {
-    "criteria": {
-      "criterion1": "2025-02-03 23:26:34 +0000"
     },
     "done": true
   },
