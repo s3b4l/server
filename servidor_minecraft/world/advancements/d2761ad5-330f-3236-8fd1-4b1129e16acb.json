@@ -656,6 +656,7 @@
       "minecraft:skeleton": "2025-02-02 20:25:50 +0000",
       "minecraft:vindicator": "2025-02-04 00:29:42 +0000",
       "minecraft:spider": "2025-02-02 20:26:55 +0000",
+      "minecraft:piglin_brute": "2025-02-04 17:47:23 +0000",
       "minecraft:creeper": "2025-02-02 23:31:07 +0000",
       "minecraft:phantom": "2025-02-04 01:40:28 +0000",
       "minecraft:zombified_piglin": "2025-02-04 00:22:38 +0000",
@@ -2872,6 +2873,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-02-04 17:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 17:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-02-04 17:38:12 +0000"
@@ -2884,6 +2897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 17:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-04 17:38:12 +0000"
@@ -2893,6 +2912,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-04 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 17:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 17:44:12 +0000"
     },
     "done": true
   },

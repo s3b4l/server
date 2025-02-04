@@ -394,3 +394,46 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 17:38:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Vindicator
 [04Feb2025 17:38:24.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx was slain by Vindicator
 [04Feb2025 17:38:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:39:10.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx was slain by Vindicator
+[04Feb2025 17:40:33.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Vindicator
+[04Feb2025 17:40:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:42:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Vindicator
+[04Feb2025 17:42:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Ghosty_X4]
+[04Feb2025 17:42:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebal was burnt to a crisp whilst fighting Vindicator
+[04Feb2025 17:42:31.204] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Feb2025 17:42:31.204] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[04Feb2025 17:42:31.205] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Feb2025 17:42:31.205] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Feb2025 17:42:31.205] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[04Feb2025 17:42:34.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:42:43.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electrodinamixxx was slain by Vex
+[04Feb2025 17:43:04.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:43:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 17:43:59.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Vindicator
+[04Feb2025 17:44:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:44:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[04Feb2025 17:46:12.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[04Feb2025 17:47:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> wwwwwww
+[04Feb2025 17:47:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 17:47:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:48:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 17:48:09.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 17:48:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
+[04Feb2025 17:48:22.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:22.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:24.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
+[04Feb2025 17:48:24.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzzzz
+[04Feb2025 17:48:25.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:25.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzz
+[04Feb2025 17:48:25.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
+[04Feb2025 17:48:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
+[04Feb2025 17:48:26.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zzzz
+[04Feb2025 17:48:27.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> z
+[04Feb2025 17:48:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> zz
+[04Feb2025 17:48:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electrodinamixxx: Teleported electrodinamixxx to Sebal]
+[04Feb2025 17:49:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Cover Me with Diamonds]
