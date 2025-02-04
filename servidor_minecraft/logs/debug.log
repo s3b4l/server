@@ -16014,3 +16014,156 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [04Feb2025 22:34:59.989] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1208, y=66, z=1191}) reached max scan size of 500
 [04Feb2025 22:35:00.811] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1208, y=67, z=1191}) reached max scan size of 500
 [04Feb2025 22:35:01.660] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1209, y=67, z=1191}) reached max scan size of 500
+[04Feb2025 22:35:02.589] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1209, y=67, z=1192}) reached max scan size of 500
+[04Feb2025 22:35:03.631] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1210, y=67, z=1191}) reached max scan size of 500
+[04Feb2025 22:35:04.465] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1209, y=67, z=1190}) reached max scan size of 500
+[04Feb2025 22:35:05.322] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1210, y=67, z=1190}) reached max scan size of 500
+[04Feb2025 22:35:06.183] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1209, y=67, z=1189}) reached max scan size of 500
+[04Feb2025 22:35:07.458] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1211, y=67, z=1190}) reached max scan size of 500
+[04Feb2025 22:35:08.448] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1210, y=67, z=1189}) reached max scan size of 500
+[04Feb2025 22:35:09.402] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1211, y=67, z=1189}) reached max scan size of 500
+[04Feb2025 22:35:10.100] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1211, y=66, z=1189}) reached max scan size of 500
+[04Feb2025 22:35:10.495] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1208, y=67, z=1190}) reached max scan size of 500
+[04Feb2025 22:35:10.935] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:11.714] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:12.551] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:13.780] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:14.757] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:15.556] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:16.729] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:17.480] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:18.235] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:18.972] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:19.727] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:20.500] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:21.313] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:22.590] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:23.906] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:25.145] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:25.915] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:44.570] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:35:45.503] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:23.276] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:24.063] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:24.848] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:25.573] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:26.277] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:27.314] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:28.017] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:28.717] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:29.414] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:30.108] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:31.120] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:32.062] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:33.083] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:38.264] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:39.005] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:39.687] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:40.410] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:36:51.111] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1157, y=65, z=1206}) reached max scan size of 500
+[04Feb2025 22:36:52.301] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1158, y=65, z=1206}) reached max scan size of 500
+[04Feb2025 22:36:52.479] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1145, y=72, z=1164}) doesn't have enough leaves around top most log
+[04Feb2025 22:36:53.527] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1158, y=65, z=1205}) reached max scan size of 500
+[04Feb2025 22:36:54.459] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1158, y=66, z=1206}) reached max scan size of 500
+[04Feb2025 22:36:55.415] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1158, y=64, z=1206}) reached max scan size of 500
+[04Feb2025 22:36:56.449] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1158, y=64, z=1205}) reached max scan size of 500
+[04Feb2025 22:36:57.386] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1159, y=64, z=1205}) reached max scan size of 500
+[04Feb2025 22:37:25.740] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1160, y=65, z=1210}) reached max scan size of 500
+[04Feb2025 22:37:26.671] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1160, y=64, z=1210}) reached max scan size of 500
+[04Feb2025 22:37:27.627] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1161, y=64, z=1210}) reached max scan size of 500
+[04Feb2025 22:37:28.453] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1161, y=65, z=1211}) reached max scan size of 500
+[04Feb2025 22:37:29.387] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1161, y=64, z=1211}) reached max scan size of 500
+[04Feb2025 22:37:30.529] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1160, y=64, z=1211}) reached max scan size of 500
+[04Feb2025 22:37:31.409] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1160, y=65, z=1211}) reached max scan size of 500
+[04Feb2025 22:37:32.284] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1159, y=64, z=1211}) reached max scan size of 500
+[04Feb2025 22:37:33.128] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1158, y=64, z=1211}) reached max scan size of 500
+[04Feb2025 22:37:46.288] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=65, z=1218}) reached max scan size of 500
+[04Feb2025 22:37:47.045] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=65, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:47.833] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=66, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:48.697] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=67, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:49.633] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=65, z=1220}) reached max scan size of 500
+[04Feb2025 22:37:50.409] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=64, z=1218}) reached max scan size of 500
+[04Feb2025 22:37:51.220] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1154, y=64, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:52.088] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=64, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:53.110] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1152, y=65, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:54.309] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1152, y=64, z=1219}) reached max scan size of 500
+[04Feb2025 22:37:55.070] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1152, y=65, z=1220}) reached max scan size of 500
+[04Feb2025 22:37:56.125] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1154, y=65, z=1220}) reached max scan size of 500
+[04Feb2025 22:37:57.416] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=66, z=1220}) reached max scan size of 500
+[04Feb2025 22:37:58.412] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=65, z=1221}) reached max scan size of 500
+[04Feb2025 22:37:59.850] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1151, y=65, z=1220}) reached max scan size of 500
+[04Feb2025 22:38:00.715] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1151, y=66, z=1220}) reached max scan size of 500
+[04Feb2025 22:38:01.611] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1151, y=67, z=1220}) reached max scan size of 500
+[04Feb2025 22:38:02.385] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1152, y=66, z=1220}) reached max scan size of 500
+[04Feb2025 22:38:03.489] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1152, y=64, z=1220}) reached max scan size of 500
+[04Feb2025 22:38:04.537] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1151, y=64, z=1220}) reached max scan size of 500
+[04Feb2025 22:38:05.380] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:06.288] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:07.369] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:08.318] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:09.361] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:10.514] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:11.382] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:15.700] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:16.839] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:18.213] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:19.122] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:38:19.727] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1154, y=63, z=1220}) doesn't have enough leaves around top most log
+[04Feb2025 22:38:20.441] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1154, y=63, z=1219}) doesn't have enough leaves around top most log
+[04Feb2025 22:38:21.138] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1155, y=63, z=1220}) doesn't have enough leaves around top most log
+[04Feb2025 22:38:21.842] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1153, y=63, z=1221}) doesn't have enough leaves around top most log
+[04Feb2025 22:38:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Ghosty_X4]
+[04Feb2025 22:39:00.413] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:01.204] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:01.931] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:02.847] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:03.894] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:04.626] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:05.558] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:06.318] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:07.068] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:08.131] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:08.891] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:10.037] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:10.890] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:12.880] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:14.444] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:15.731] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:25.196] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:26.235] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:26.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 22:39:26.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 22:39:27.144] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:28.489] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:29.444] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:39:30.191] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:40:56.044] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:40:56.795] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:40:57.956] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:40:58.650] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:40:59.456] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:41:00.868] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[04Feb2025 22:41:01.791] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1194, y=69, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:02.693] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1193, y=69, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:03.393] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1193, y=69, z=1165}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:04.297] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1192, y=69, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:05.884] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1194, y=69, z=1164}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:06.888] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1194, y=69, z=1165}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:09.741] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=69, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:10.438] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1196, y=69, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:11.442] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=69, z=1167}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:12.508] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=68, z=1167}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:13.194] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=68, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:13.901] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1196, y=68, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:14.601] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=68, z=1165}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:15.287] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=67, z=1165}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:15.992] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1196, y=67, z=1165}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:16.689] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=67, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:17.392] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1196, y=67, z=1166}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:18.134] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1196, y=67, z=1167}) doesn't have enough leaves around top most log
+[04Feb2025 22:41:18.796] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1195, y=67, z=1167}) doesn't have enough leaves around top most log
+[04Feb2025 22:43:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Maaxz_dou]
+[04Feb2025 22:44:19.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[04Feb2025 22:44:19.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
+[04Feb2025 22:44:26.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 22:44:26.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

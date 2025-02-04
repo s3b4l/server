@@ -4809,3 +4809,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [04Feb2025 22:31:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
 [04Feb2025 22:32:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou was slain by Wither Skeleton
 [04Feb2025 22:33:54.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Ghosty_X4]
+[04Feb2025 22:38:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to Ghosty_X4]
+[04Feb2025 22:43:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Maaxz_dou]
+[04Feb2025 22:44:19.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[04Feb2025 22:44:19.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
