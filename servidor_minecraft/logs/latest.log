@@ -931,3 +931,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [04Feb2025 21:20:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou fell from a high place
 [04Feb2025 21:21:11.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou fell from a high place
+[04Feb2025 21:28:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has made the advancement [Tactical Fishing]
+[04Feb2025 21:30:15.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Maaxz_dou]
+[04Feb2025 21:31:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> fosho
+[04Feb2025 21:31:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> follo
+[04Feb2025 21:32:28.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:50108] logged in with entity id 295671 at (-667.9268559553639, 65.0, 1150.557790221458)
+[04Feb2025 21:32:28.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[04Feb2025 21:32:28.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[04Feb2025 21:32:28.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[04Feb2025 21:32:28.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[04Feb2025 21:32:28.703] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[04Feb2025 21:32:28.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[04Feb2025 21:32:28.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[04Feb2025 21:32:28.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[04Feb2025 21:32:28.747] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[04Feb2025 21:32:49.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]

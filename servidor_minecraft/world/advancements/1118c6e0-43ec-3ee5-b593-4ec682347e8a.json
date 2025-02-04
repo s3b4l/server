@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-03 16:54:05 +0000",
+      "minecraft:cherry_grove": "2025-02-04 21:18:50 +0000",
       "minecraft:sunflower_plains": "2025-02-04 21:12:40 +0000",
       "minecraft:river": "2025-02-03 18:27:33 +0000",
       "minecraft:stony_shore": "2025-02-03 16:53:56 +0000",
@@ -793,6 +794,7 @@
       "sweet_berries": "2025-02-03 19:33:05 +0000",
       "cooked_beef": "2025-02-03 21:03:48 +0000",
       "baked_potato": "2025-02-03 17:45:22 +0000",
+      "beetroot_soup": "2025-02-04 21:21:53 +0000",
       "golden_apple": "2025-02-03 18:57:21 +0000",
       "bread": "2025-02-03 21:26:43 +0000",
       "rotten_flesh": "2025-02-03 17:07:30 +0000",
@@ -2188,6 +2190,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-02-04 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-04 21:15:09 +0000"
@@ -2206,6 +2226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
@@ -2215,6 +2241,12 @@
   "simplytools:recipes/tools/wooden_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
     },
     "done": true
   },
@@ -2248,6 +2280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-04 21:15:09 +0000"
@@ -2257,6 +2295,18 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
     },
     "done": true
   },
@@ -2272,9 +2322,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-04 20:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-04 21:23:29 +0000"
     },
     "done": true
   },
@@ -2284,9 +2346,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/golden_excavator_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-04 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
     },
     "done": true
   },
@@ -2308,6 +2400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/stone_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 19:30:14 +0000"
@@ -2323,6 +2421,12 @@
   "simplytools:recipes/tools/netherite_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-02-04 21:19:00 +0000"
     },
     "done": true
   },
@@ -2380,6 +2484,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:14:16 +0000"
@@ -2422,6 +2532,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-04 21:15:09 +0000"
@@ -2449,6 +2571,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-02-04 21:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
     },
     "done": true
   },
@@ -2488,9 +2616,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-04 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-04 21:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-04 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-02-04 21:19:08 +0000"
     },
     "done": true
   },
