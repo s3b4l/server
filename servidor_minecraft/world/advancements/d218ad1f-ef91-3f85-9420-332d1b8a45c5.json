@@ -739,6 +739,7 @@
     "criteria": {
       "muskeg": "2025-02-03 22:59:54 +0000",
       "snowblossom_grove": "2025-02-03 23:03:46 +0000",
+      "rocky_shrubland": "2025-02-04 16:54:47 +0000",
       "jacaranda_glade": "2025-02-03 22:16:01 +0000",
       "mystic_grove": "2025-02-03 22:40:43 +0000",
       "maple_woods": "2025-02-03 22:59:31 +0000",
@@ -747,6 +748,7 @@
       "overgrown_greens": "2025-02-03 22:34:31 +0000",
       "coniferous_forest": "2025-02-02 20:25:37 +0000",
       "forested_field": "2025-02-03 22:36:43 +0000",
+      "spider_nest": "2025-02-04 17:03:11 +0000",
       "redwood_forest": "2025-02-02 22:07:17 +0000",
       "visceral_heap": "2025-02-03 23:07:48 +0000",
       "aspen_glade": "2025-02-02 20:27:03 +0000",
@@ -756,6 +758,7 @@
       "fir_clearing": "2025-02-02 20:28:27 +0000",
       "pumpkin_patch": "2025-02-02 20:26:16 +0000",
       "prairie": "2025-02-02 22:07:53 +0000",
+      "grassland": "2025-02-04 16:59:10 +0000",
       "tundra": "2025-02-03 23:02:45 +0000",
       "gravel_beach": "2025-02-02 22:41:18 +0000",
       "undergrowth": "2025-02-03 21:57:41 +0000",
@@ -3144,6 +3147,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-04 16:58:46 +0000"
     },
     "done": true
   },
