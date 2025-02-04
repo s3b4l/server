@@ -2200,6 +2200,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-02-03 22:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-03 22:57:00 +0000"
@@ -2230,12 +2236,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-02-03 22:51:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-03 22:57:00 +0000"
@@ -2263,6 +2263,30 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-03 22:57:00 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/stone_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-03 23:35:11 +0000"
     },
     "done": true
   },
