@@ -2185,6 +2185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-04 20:45:36 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/wooden_excavator_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:13:25 +0000"
@@ -2224,6 +2230,12 @@
   "simplytools:recipes/tools/iron_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 20:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-04 20:45:36 +0000"
     },
     "done": true
   },

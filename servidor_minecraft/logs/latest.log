@@ -762,3 +762,21 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 20:39:35.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> PUTAMADRE NO TENGO HIERRO
 [04Feb2025 20:41:53.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
 [04Feb2025 20:41:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[04Feb2025 20:46:29.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:59363] logged in with entity id 270355 at (-841.6534731299554, 111.0, 1267.0072817365924)
+[04Feb2025 20:46:29.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[04Feb2025 20:46:29.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[04Feb2025 20:46:29.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[04Feb2025 20:46:29.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[04Feb2025 20:46:29.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[04Feb2025 20:46:29.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[04Feb2025 20:46:29.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[04Feb2025 20:46:29.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[04Feb2025 20:46:29.625] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[04Feb2025 20:46:48.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to Sebal]
+[04Feb2025 20:47:34.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[04Feb2025 20:47:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[04Feb2025 20:47:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> OSTIA UN PUTO SIEMPIES GIGANTE
+[04Feb2025 20:50:33.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> OStia dejar las tdrogas
+[04Feb2025 20:51:31.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Ya tengo pal llunque
+[04Feb2025 20:51:43.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
+[04Feb2025 20:51:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
