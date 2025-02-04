@@ -780,3 +780,35 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 20:51:31.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Ya tengo pal llunque
 [04Feb2025 20:51:43.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
 [04Feb2025 20:51:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
+[04Feb2025 20:52:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Paraguay es un invento del gobierno no existe
+[04Feb2025 20:53:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Como mi mama
+[04Feb2025 20:55:15.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:53033] logged in with entity id 277654 at (-847.3093056608434, 111.0, 1283.4506486506873)
+[04Feb2025 20:55:15.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
+[04Feb2025 20:55:15.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
+[04Feb2025 20:55:15.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
+[04Feb2025 20:55:15.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
+[04Feb2025 20:55:15.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
+[04Feb2025 20:55:15.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
+[04Feb2025 20:55:15.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
+[04Feb2025 20:55:15.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
+[04Feb2025 20:55:15.112] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
+[04Feb2025 20:55:40.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Che me hise un llunque y no me anda lo de hacerlos de netherite
+[04Feb2025 20:55:52.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[04Feb2025 20:55:52.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
+[04Feb2025 20:56:45.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> En mi pais tmb estaba como 30 y algo
+[04Feb2025 20:59:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> Necesito ayuda XD
+[04Feb2025 20:59:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> para?
+[04Feb2025 21:00:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> No me deja hacer la armadura de netherite
+[04Feb2025 21:00:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebal> necesitas una placa especial que se consigue en una bastian en el neth
+[04Feb2025 21:01:44.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> GOD
+[04Feb2025 21:02:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deni> La otra ves le clabe un cuter en la cara y empeso a llorar es una chica de cristal
+[04Feb2025 21:02:36.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:54154] logged in with entity id 280173 at (-959.3000000119209, 120.0, 1204.300000011921)
+[04Feb2025 21:02:36.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
+[04Feb2025 21:02:36.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
+[04Feb2025 21:02:36.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
+[04Feb2025 21:02:36.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
+[04Feb2025 21:02:36.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
+[04Feb2025 21:02:36.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
+[04Feb2025 21:02:36.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
+[04Feb2025 21:02:36.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
+[04Feb2025 21:02:36.613] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)

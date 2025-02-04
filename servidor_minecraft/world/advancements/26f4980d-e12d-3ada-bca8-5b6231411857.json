@@ -2179,18 +2179,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-02-04 20:45:36 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/wooden_excavator_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:13:25 +0000"
@@ -2203,45 +2191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_hammer_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/iron_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 20:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-02-04 20:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
     },
     "done": true
   },
@@ -2272,18 +2224,6 @@
   "simplytools:recipes/tools/netherite_excavator": {
     "criteria": {
       "criterion1": "2025-02-04 20:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
     },
     "done": true
   },
@@ -2323,33 +2263,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
   "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:13:25 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/diamond_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 20:18:01 +0000"
-    },
-    "done": true
-  },
-  "simplytools:recipes/tools/stone_excavator_head": {
-    "criteria": {
-      "criterion0": "2025-02-04 20:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-02-04 20:18:01 +0000"
     },
     "done": true
   },
@@ -2365,9 +2281,81 @@
     },
     "done": true
   },
+  "simplytools:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "criterion1": "2025-02-04 20:13:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-02-04 20:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-04 20:18:01 +0000"
     },
     "done": true
   },
@@ -2389,15 +2377,27 @@
     },
     "done": true
   },
+  "simplytools:recipes/tools/stone_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-02-04 20:28:31 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/stone_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-04 20:28:31 +0000"
     },
     "done": true
   },
-  "simplytools:recipes/tools/wooden_hammer": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "criterion1": "2025-02-04 20:13:25 +0000"
+      "has_flint": "2025-02-04 20:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-04 20:45:36 +0000"
     },
     "done": true
   },
