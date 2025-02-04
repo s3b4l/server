@@ -31,7 +31,9 @@
       "minecraft:frozen_river": "2025-02-03 23:02:41 +0000",
       "minecraft:sunflower_plains": "2025-02-02 23:28:49 +0000",
       "minecraft:cherry_grove": "2025-02-03 00:38:03 +0000",
+      "minecraft:birch_forest": "2025-02-04 16:41:56 +0000",
       "minecraft:beach": "2025-02-02 22:53:15 +0000",
+      "minecraft:dark_forest": "2025-02-04 16:42:42 +0000",
       "minecraft:river": "2025-02-02 20:24:39 +0000",
       "minecraft:stony_shore": "2025-02-02 20:15:20 +0000",
       "minecraft:snowy_plains": "2025-02-03 22:59:53 +0000",
@@ -3121,9 +3123,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-04 16:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
     },
     "done": true
   },
@@ -3133,9 +3159,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-04 16:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
     },
     "done": true
   },
@@ -3145,9 +3189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-04 16:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
     },
     "done": true
   },
@@ -3172,6 +3228,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-04 16:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-04 16:33:43 +0000"
     },
     "done": true
   },

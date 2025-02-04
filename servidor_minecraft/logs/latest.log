@@ -271,3 +271,12 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [04Feb2025 16:33:13.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
 [04Feb2025 16:34:44.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 fell from a high place
 [04Feb2025 16:35:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
+[04Feb2025 16:40:37.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 16:41:06.079] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[04Feb2025 16:41:06.080] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[04Feb2025 16:41:06.081] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[04Feb2025 16:41:19.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[04Feb2025 16:41:19.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[04Feb2025 16:44:27.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to Sebal]
+[04Feb2025 16:47:06.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebal: Teleported Sebal to alaresttv]
+[04Feb2025 16:47:14.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
