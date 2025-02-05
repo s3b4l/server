@@ -420,3 +420,18 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [05Feb2025 21:48:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> dea
 [05Feb2025 21:49:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
 [05Feb2025 21:49:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> pero
+[05Feb2025 21:50:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
+[05Feb2025 21:53:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to pitoflacido.com]
+[05Feb2025 21:54:37.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[05Feb2025 21:54:37.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[05Feb2025 21:54:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> que hiciste
+[05Feb2025 21:55:57.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maaxz_dou[/100.99.176.124:63990] logged in with entity id 39393 at (-877.5688092134891, 111.0, 1255.300000011921)
+[05Feb2025 21:55:57.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maaxz_dou
+[05Feb2025 21:55:57.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maaxz_dou
+[05Feb2025 21:55:57.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maaxz_dou
+[05Feb2025 21:55:57.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maaxz_dou
+[05Feb2025 21:55:57.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maaxz_dou
+[05Feb2025 21:55:57.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maaxz_dou
+[05Feb2025 21:55:57.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maaxz_dou
+[05Feb2025 21:55:57.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou joined the game
+[05Feb2025 21:55:57.552] [Server thread/INFO] [Jade/]: Syncing config to Maaxz_dou (b29d52d7-4387-3f36-b2f7-5374273ee356)
