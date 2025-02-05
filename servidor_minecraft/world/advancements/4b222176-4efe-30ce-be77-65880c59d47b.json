@@ -242,6 +242,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-05 20:26:22 +0000"
@@ -254,9 +260,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 20:32:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -329,6 +347,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-05 20:26:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -410,6 +434,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-05 20:32:49 +0000"
@@ -446,6 +476,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "lavender_field": "2025-02-05 20:35:13 +0000"
@@ -464,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 20:26:59 +0000"
@@ -476,6 +524,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 20:32:49 +0000"
@@ -485,6 +539,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-05 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-05 20:45:35 +0000"
     },
     "done": true
   },
@@ -512,15 +572,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 20:32:49 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-05 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -539,6 +635,18 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 20:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -581,6 +689,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 20:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -668,6 +782,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-05 20:26:22 +0000"
@@ -686,15 +806,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 20:28:46 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 20:26:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -707,6 +845,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-05 20:27:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -737,6 +881,18 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-02-05 20:32:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -788,6 +944,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2025-02-05 20:26:59 +0000"
@@ -797,6 +959,12 @@
   "simplytools:recipes/tools/iron_hammer_head": {
     "criteria": {
       "criterion0": "2025-02-05 20:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -862,6 +1030,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-05 20:52:43 +0000",
       "cooked_chicken": "2025-02-05 20:33:01 +0000",
       "carrot": "2025-02-05 20:28:43 +0000"
     },
@@ -876,6 +1045,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 20:28:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },
@@ -915,9 +1090,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 20:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-05 20:48:35 +0000"
     },
     "done": true
   },

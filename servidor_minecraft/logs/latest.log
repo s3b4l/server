@@ -248,3 +248,16 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [05Feb2025 20:29:13.766] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18acc942[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:49491) lost connection: Connection closed - mismatched mod channel list
 [05Feb2025 20:32:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Acquire Hardware]
 [05Feb2025 20:34:20.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Sweet Dreams]
+[05Feb2025 20:49:52.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:52337] logged in with entity id 7380 at (-845.9988850352586, 103.0, 1286.4183101508747)
+[05Feb2025 20:49:52.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
+[05Feb2025 20:49:52.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
+[05Feb2025 20:49:52.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
+[05Feb2025 20:49:52.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
+[05Feb2025 20:49:52.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
+[05Feb2025 20:49:52.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
+[05Feb2025 20:49:52.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
+[05Feb2025 20:49:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
+[05Feb2025 20:49:52.755] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
+[05Feb2025 20:53:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> ni se te ocurra
+[05Feb2025 20:54:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> me queres ayudar?
+[05Feb2025 20:54:34.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> necesito mano de obra
