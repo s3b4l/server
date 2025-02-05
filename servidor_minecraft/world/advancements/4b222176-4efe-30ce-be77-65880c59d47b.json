@@ -28,8 +28,11 @@
       "minecraft:taiga": "2025-02-05 00:43:23 +0000",
       "minecraft:sunflower_plains": "2025-02-05 00:44:17 +0000",
       "minecraft:cherry_grove": "2025-02-05 21:45:26 +0000",
+      "minecraft:river": "2025-02-05 22:06:31 +0000",
       "minecraft:stony_shore": "2025-02-05 00:43:35 +0000",
-      "minecraft:forest": "2025-02-05 20:37:27 +0000"
+      "minecraft:cold_ocean": "2025-02-05 22:05:47 +0000",
+      "minecraft:forest": "2025-02-05 20:37:27 +0000",
+      "minecraft:plains": "2025-02-05 22:00:38 +0000"
     },
     "done": false
   },
@@ -811,7 +814,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "lavender_field": "2025-02-05 20:35:13 +0000"
+      "field": "2025-02-05 22:05:01 +0000",
+      "coniferous_forest": "2025-02-05 22:06:45 +0000",
+      "redwood_forest": "2025-02-05 22:06:47 +0000",
+      "lavender_field": "2025-02-05 20:35:13 +0000",
+      "prairie": "2025-02-05 22:08:08 +0000"
     },
     "done": false
   },
@@ -1127,9 +1134,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-02-05 21:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-05 22:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
     },
     "done": true
   },
@@ -1141,6 +1172,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-05 22:01:24 +0000",
       "minecraft:zombie": "2025-02-05 21:41:50 +0000"
     },
     "done": false
@@ -1151,9 +1183,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-02-05 21:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 22:00:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 22:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-02-05 22:00:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
     },
     "done": true
   },
@@ -1166,6 +1240,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-02-05 21:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-05 22:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 22:00:27 +0000"
     },
     "done": true
   },
