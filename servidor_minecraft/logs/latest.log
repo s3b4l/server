@@ -355,3 +355,33 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [05Feb2025 21:29:34.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to pitoflacido.com]
 [05Feb2025 21:29:50.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
 [05Feb2025 21:29:50.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
+[05Feb2025 21:30:11.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:53654] logged in with entity id 18319 at (-846.4509812397084, 108.0, 1283.5626457952958)
+[05Feb2025 21:30:11.457] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
+[05Feb2025 21:30:11.458] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
+[05Feb2025 21:30:11.458] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
+[05Feb2025 21:30:11.458] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
+[05Feb2025 21:30:11.460] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
+[05Feb2025 21:30:11.462] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
+[05Feb2025 21:30:11.463] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
+[05Feb2025 21:30:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
+[05Feb2025 21:30:11.544] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
+[05Feb2025 21:30:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to pitoflacido.com]
+[05Feb2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Speed to Ghosty_X4]
+[05Feb2025 21:32:06.896] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8dbd411[id=<null>,name=xS3b4lx,properties={},legacy=false] (/100.125.15.17:57265) lost connection: Disconnected
+[05Feb2025 21:32:13.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xS3b4lx[/100.125.15.17:57271] logged in with entity id 18723 at (-856.7168122679584, 111.0, 1228.3625540316784)
+[05Feb2025 21:32:13.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xS3b4lx
+[05Feb2025 21:32:13.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xS3b4lx
+[05Feb2025 21:32:13.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xS3b4lx
+[05Feb2025 21:32:13.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xS3b4lx
+[05Feb2025 21:32:13.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xS3b4lx
+[05Feb2025 21:32:13.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xS3b4lx
+[05Feb2025 21:32:13.910] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xS3b4lx
+[05Feb2025 21:32:13.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx joined the game
+[05Feb2025 21:32:13.984] [Server thread/INFO] [Jade/]: Syncing config to xS3b4lx (4b222176-4efe-30ce-be77-65880c59d47b)
+[05Feb2025 21:33:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Speed to xS3b4lx]
+[05Feb2025 21:33:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Removed every effect from xS3b4lx]
+[05Feb2025 21:33:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> gronce de mrda
+[05Feb2025 21:33:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> JAJAJAAJA
+[05Feb2025 21:34:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to pitoflacido.com]
+[05Feb2025 21:37:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> cacho peces illo
+[05Feb2025 21:38:50.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Straddle My Ol' Saddle]
