@@ -325,3 +325,20 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [05Feb2025 21:02:33.860] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
 [05Feb2025 21:08:16.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xS3b4lx lost connection: Disconnected
 [05Feb2025 21:08:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx left the game
+[05Feb2025 21:15:03.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:52381] logged in with entity id 15232 at (-853.7376338706146, 111.0, 1246.4090175966787)
+[05Feb2025 21:15:03.622] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
+[05Feb2025 21:15:03.622] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
+[05Feb2025 21:15:03.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
+[05Feb2025 21:15:03.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
+[05Feb2025 21:15:03.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
+[05Feb2025 21:15:03.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
+[05Feb2025 21:15:03.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
+[05Feb2025 21:15:03.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
+[05Feb2025 21:15:03.713] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[05Feb2025 21:15:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> yoo niiggi
+[05Feb2025 21:16:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> click derecho xd
+[05Feb2025 21:16:38.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> xd
+[05Feb2025 21:16:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> t metes al vc?
+[05Feb2025 21:17:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> ya estoy
+[05Feb2025 21:17:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> wa
+[05Feb2025 21:18:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> xd
