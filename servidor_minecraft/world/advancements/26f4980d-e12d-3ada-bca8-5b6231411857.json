@@ -2420,5 +2420,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-05 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-05 21:43:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
