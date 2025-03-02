@@ -4388,3 +4388,11 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Mar2025 01:51:24.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> mmm bueno luego entro d nuevo si eso
 [02Mar2025 01:51:26.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
 [02Mar2025 01:51:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[02Mar2025 01:53:29.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported pitoflacido.com to xS3b4lx]
+[02Mar2025 01:53:37.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 01:53:37.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 01:53:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported Ghosty_X4 to xS3b4lx]
+[02Mar2025 01:56:03.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [We Need to Go Deeper]
+[02Mar2025 01:57:24.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=86, z=185} BlockPos{x=-148, y=87, z=185}
+[02Mar2025 01:58:37.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 01:58:37.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
