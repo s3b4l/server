@@ -269,3 +269,15 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Mar2025 06:36:59.146] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [02Mar2025 06:36:59.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f89fbf7[id=<null>,name=cralskate,properties={},legacy=false] (/100.72.34.64:55729) lost connection: Connection closed - mismatched mod channel list
 [02Mar2025 06:38:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [extremend: Teleported extremend to xS3b4lx]
+[02Mar2025 06:44:49.460] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61abe26e[id=<null>,name=cralskate,properties={},legacy=false] (/100.72.34.64:55971) lost connection: Disconnected
+[02Mar2025 06:47:39.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cralskate[/100.72.34.64:56124] logged in with entity id 6061 at (-35.5, 72.0, 4.5)
+[02Mar2025 06:47:39.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to cralskate
+[02Mar2025 06:47:39.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to cralskate
+[02Mar2025 06:47:39.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to cralskate
+[02Mar2025 06:47:39.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to cralskate
+[02Mar2025 06:47:39.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to cralskate
+[02Mar2025 06:47:39.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to cralskate
+[02Mar2025 06:47:39.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to cralskate
+[02Mar2025 06:47:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate joined the game
+[02Mar2025 06:47:39.570] [Server thread/INFO] [Jade/]: Syncing config to cralskate (8162038d-88da-36f6-9110-9458f983907a)
+[02Mar2025 06:48:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported cralskate to xS3b4lx]
