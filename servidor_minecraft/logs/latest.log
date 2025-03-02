@@ -281,3 +281,15 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Mar2025 06:47:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate joined the game
 [02Mar2025 06:47:39.570] [Server thread/INFO] [Jade/]: Syncing config to cralskate (8162038d-88da-36f6-9110-9458f983907a)
 [02Mar2025 06:48:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported cralskate to xS3b4lx]
+[02Mar2025 06:54:45.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate has made the advancement [Stone Age]
+[02Mar2025 06:55:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [extremend: Teleported extremend to xS3b4lx]
+[02Mar2025 06:56:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: extremend has made the advancement [Enchanter]
+[02Mar2025 06:56:52.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [extremend: Teleported extremend to xS3b4lx]
+[02Mar2025 06:57:50.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate has made the advancement [Getting an Upgrade]
+[02Mar2025 06:58:08.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate has made the advancement [Sweet Dreams]
+[02Mar2025 07:01:36.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xS3b4lx lost connection: Disconnected
+[02Mar2025 07:01:36.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx left the game
+[02Mar2025 07:04:08.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate has made the advancement [Diamonds!]
+[02Mar2025 07:04:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate has made the advancement [Cover Me with Diamonds]
+[02Mar2025 07:07:39.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cralskate lost connection: Disconnected
+[02Mar2025 07:07:39.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cralskate left the game
