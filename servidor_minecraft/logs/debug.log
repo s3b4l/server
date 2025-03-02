@@ -4422,3 +4422,15 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Mar2025 02:11:56.071] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-857, y=104, z=1286}) doesn't have enough leaves around top most log
 [02Mar2025 02:11:56.979] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-857, y=105, z=1286}) doesn't have enough leaves around top most log
 [02Mar2025 02:11:58.777] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-856, y=103, z=1286}) doesn't have enough leaves around top most log
+[02Mar2025 02:13:37.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 02:13:37.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 02:13:52.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xS3b4lx lost connection: Disconnected
+[02Mar2025 02:13:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx left the game
+[02Mar2025 02:16:44.107] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-846, y=107, z=1285}) doesn't have enough leaves around top most log
+[02Mar2025 02:16:44.979] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-846, y=107, z=1284}) doesn't have enough leaves around top most log
+[02Mar2025 02:16:45.777] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-846, y=107, z=1283}) doesn't have enough leaves around top most log
+[02Mar2025 02:16:46.590] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-846, y=107, z=1282}) doesn't have enough leaves around top most log
+[02Mar2025 02:18:37.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 02:18:37.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 02:19:49.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[02Mar2025 02:19:49.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
