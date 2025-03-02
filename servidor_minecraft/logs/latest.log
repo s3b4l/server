@@ -277,3 +277,27 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Mar2025 02:13:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx left the game
 [02Mar2025 02:19:49.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
 [02Mar2025 02:19:49.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
+[02Mar2025 02:24:19.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:49850] logged in with entity id 14418 at (-840.3719004624993, 111.0, 1226.7273225495455)
+[02Mar2025 02:24:19.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[02Mar2025 02:24:19.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[02Mar2025 02:24:19.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[02Mar2025 02:24:19.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[02Mar2025 02:24:19.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[02Mar2025 02:24:19.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[02Mar2025 02:24:19.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[02Mar2025 02:24:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[02Mar2025 02:24:19.105] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[02Mar2025 02:27:01.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[02Mar2025 02:27:01.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
+[02Mar2025 02:29:06.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:55398] logged in with entity id 15562 at (-889.3156988866201, 118.0, 1237.8143610739546)
+[02Mar2025 02:29:06.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
+[02Mar2025 02:29:06.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
+[02Mar2025 02:29:06.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
+[02Mar2025 02:29:06.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
+[02Mar2025 02:29:06.718] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
+[02Mar2025 02:29:06.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
+[02Mar2025 02:29:06.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
+[02Mar2025 02:29:06.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
+[02Mar2025 02:29:06.788] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[02Mar2025 02:29:33.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
+[02Mar2025 02:29:33.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
