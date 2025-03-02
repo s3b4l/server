@@ -1,86 +1,106 @@
-[05Feb2025 20:18:54.525] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[05Feb2025 20:18:54.528] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Feb2025 20:18:55.782] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Feb2025 20:18:55.846] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Feb2025 20:18:56.286] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 20:18:56.289] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 20:18:56.290] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 20:18:56.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 20:18:56.474] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Feb2025 20:18:56.485] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[05Feb2025 20:19:00.249] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Feb2025 20:19:00.394] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[05Feb2025 20:19:00.700] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Feb2025 20:19:02.588] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
-[05Feb2025 20:19:11.017] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[05Feb2025 20:19:11.854] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[05Feb2025 20:19:11.889] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[05Feb2025 20:19:11.890] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[05Feb2025 20:19:11.890] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[05Feb2025 20:19:11.890] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[05Feb2025 20:19:11.890] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[05Feb2025 20:19:11.890] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[05Feb2025 20:19:12.124] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[05Feb2025 20:19:12.458] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Feb2025 20:19:12.459] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Feb2025 20:19:12.975] [modloading-worker-0/WARN] [ModdingLegacy/Lucent/]: [lucent] LUCENT IS A CLIENT SIDE MOD. IT DOES NOT NEED TO BE INSTALLED ON THE SERVER.
-[05Feb2025 20:19:13.247] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Feb2025 20:19:16.798] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[05Feb2025 20:19:17.233] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[05Feb2025 20:19:17.243] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[05Feb2025 20:19:17.248] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[05Feb2025 20:19:17.254] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[05Feb2025 20:19:17.682] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server/servidor_minecraft/config/cosmeticarmorreworked-common.toml is not correct. Correcting
-[05Feb2025 20:19:17.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Feb2025 20:19:17.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.CosArmorKeepThroughDeath was corrected from null to its default, false. 
-[05Feb2025 20:19:17.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.CosArmorDisableRecipeBook was corrected from null to its default, false. 
-[05Feb2025 20:19:17.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.CosArmorDisableCosHatCommand was corrected from null to its default, false. 
-[05Feb2025 20:19:17.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[05Feb2025 20:19:18.019] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[05Feb2025 20:19:18.209] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Feb2025 20:19:18.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.5 Target: 1.19.6
-[05Feb2025 20:19:18.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[05Feb2025 20:19:18.296] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Feb2025 20:19:18.296] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Feb2025 20:19:18.297] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[05Feb2025 20:19:18.298] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[05Feb2025 20:19:18.298] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[05Feb2025 20:19:18.298] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[05Feb2025 20:19:18.299] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[05Feb2025 20:19:18.382] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[05Feb2025 20:19:18.382] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[05Feb2025 20:19:18.601] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[05Feb2025 20:19:18.619] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[05Feb2025 20:19:18.625] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Feb2025 20:19:18.649] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Feb2025 20:19:18.654] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Feb2025 20:19:18.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[05Feb2025 20:19:18.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[05Feb2025 20:19:19.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[05Feb2025 20:19:19.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[05Feb2025 20:19:19.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[05Feb2025 20:19:19.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[05Feb2025 20:19:19.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.49 Target: 1.2.51
-[05Feb2025 20:19:19.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[05Feb2025 20:19:20.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
-[05Feb2025 20:19:20.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Starting version check at https://assets.melanx.de/updates/libx.json
-[05Feb2025 20:19:20.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Found status: OUTDATED Current: 1.20.1-5.0.5 Target: 1.20.1-5.0.12
-[05Feb2025 20:19:20.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[05Feb2025 20:19:21.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[05Feb2025 20:19:21.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[05Feb2025 20:19:21.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[05Feb2025 20:19:21.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
-[05Feb2025 20:19:21.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[05Feb2025 20:19:21.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Feb2025 20:19:21.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[05Feb2025 20:19:21.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[05Feb2025 20:19:21.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[05Feb2025 20:19:21.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[05Feb2025 20:19:22.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[05Feb2025 20:19:22.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[05Feb2025 20:19:22.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
-[05Feb2025 20:19:22.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ancore] Starting version check at https://addons-ecs.forgesvc.net/api/v2/addon/1083162
-[05Feb2025 20:19:22.760] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Mar2025 01:42:49.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Mar2025 01:42:49.025] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[02Mar2025 01:42:50.246] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Mar2025 01:42:50.305] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Mar2025 01:42:50.639] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Mar2025 01:42:50.642] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Mar2025 01:42:50.643] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Mar2025 01:42:50.645] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Mar2025 01:42:50.788] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02Mar2025 01:42:50.789] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[02Mar2025 01:42:53.291] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Mar2025 01:42:53.421] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Mar2025 01:42:53.468] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Mar2025 01:42:55.082] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[02Mar2025 01:43:01.598] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[02Mar2025 01:43:02.158] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.163] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.164] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.164] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.165] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.165] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.166] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[02Mar2025 01:43:02.412] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Mar2025 01:43:02.414] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Mar2025 01:43:02.605] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[02Mar2025 01:43:03.018] [modloading-worker-0/WARN] [ModdingLegacy/Lucent/]: [lucent] LUCENT IS A CLIENT SIDE MOD. IT DOES NOT NEED TO BE INSTALLED ON THE SERVER.
+[02Mar2025 01:43:03.221] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Mar2025 01:43:06.866] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[02Mar2025 01:43:07.319] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[02Mar2025 01:43:07.328] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[02Mar2025 01:43:07.331] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[02Mar2025 01:43:07.333] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[02Mar2025 01:43:07.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[02Mar2025 01:43:07.932] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[02Mar2025 01:43:08.055] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02Mar2025 01:43:08.101] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Mar2025 01:43:08.102] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Mar2025 01:43:08.103] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02Mar2025 01:43:08.103] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02Mar2025 01:43:08.103] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02Mar2025 01:43:08.103] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02Mar2025 01:43:08.103] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02Mar2025 01:43:08.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.5 Target: 1.19.7
+[02Mar2025 01:43:08.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[02Mar2025 01:43:08.182] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[02Mar2025 01:43:08.184] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[02Mar2025 01:43:08.237] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[02Mar2025 01:43:08.249] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[02Mar2025 01:43:08.251] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[02Mar2025 01:43:08.264] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[02Mar2025 01:43:08.269] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[02Mar2025 01:43:08.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[02Mar2025 01:43:08.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[02Mar2025 01:43:08.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[02Mar2025 01:43:08.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02Mar2025 01:43:12.332] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Mar2025 01:43:15.611] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23213!/assets/.mcassetsroot' uses unexpected schema
+[02Mar2025 01:43:15.611] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23213!/data/.mcassetsroot' uses unexpected schema
+[02Mar2025 01:43:17.661] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02Mar2025 01:43:18.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[02Mar2025 01:43:18.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[02Mar2025 01:43:19.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.49 Target: 1.2.51
+[02Mar2025 01:43:19.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[02Mar2025 01:43:19.095] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[02Mar2025 01:43:19.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[02Mar2025 01:43:19.127] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[02Mar2025 01:43:19.137] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[02Mar2025 01:43:19.170] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[02Mar2025 01:43:19.172] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[02Mar2025 01:43:19.173] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[02Mar2025 01:43:19.178] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[02Mar2025 01:43:19.184] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[02Mar2025 01:43:19.345] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2935 advancements
+[02Mar2025 01:43:19.349] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[02Mar2025 01:43:19.350] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[02Mar2025 01:43:19.350] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[02Mar2025 01:43:19.350] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[02Mar2025 01:43:19.367] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[02Mar2025 01:43:19.371] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[02Mar2025 01:43:19.371] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[02Mar2025 01:43:19.371] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[02Mar2025 01:43:19.378] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[02Mar2025 01:43:19.403] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[02Mar2025 01:43:19.411] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Mar2025 01:43:19.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[02Mar2025 01:43:19.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Starting version check at https://assets.melanx.de/updates/libx.json
+[02Mar2025 01:43:19.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Found status: OUTDATED Current: 1.20.1-5.0.5 Target: 1.20.1-5.0.12
+[02Mar2025 01:43:19.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[02Mar2025 01:43:20.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[02Mar2025 01:43:20.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[02Mar2025 01:43:20.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[02Mar2025 01:43:20.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[02Mar2025 01:43:20.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[02Mar2025 01:43:20.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Mar2025 01:43:20.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[02Mar2025 01:43:20.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[02Mar2025 01:43:20.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[02Mar2025 01:43:20.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[02Mar2025 01:43:20.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[02Mar2025 01:43:20.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[02Mar2025 01:43:21.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
+[02Mar2025 01:43:21.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ancore] Starting version check at https://addons-ecs.forgesvc.net/api/v2/addon/1083162
+[02Mar2025 01:43:21.512] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.net.ConnectException: null
 	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
 	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
@@ -147,297 +167,104 @@ Caused by: java.nio.channels.UnresolvedAddressException
 	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
 	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
 	... 5 more
-[05Feb2025 20:19:22.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[05Feb2025 20:19:22.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[05Feb2025 20:19:22.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Starting version check at http://changelogs.moddinglegacy.com/lucent.json
-[05Feb2025 20:19:22.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Found status: BETA Current: 1.5.5 Target: null
-[05Feb2025 20:19:22.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Starting version check at https://assets.melanx.de/updates/simply-tools.json
-[05Feb2025 20:19:22.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Found status: UP_TO_DATE Current: 1.20.1-2.0.8 Target: null
-[05Feb2025 20:19:22.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[05Feb2025 20:19:23.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[05Feb2025 20:19:24.194] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Feb2025 20:19:28.139] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23213!/assets/.mcassetsroot' uses unexpected schema
-[05Feb2025 20:19:28.140] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23213!/data/.mcassetsroot' uses unexpected schema
-[05Feb2025 20:19:30.923] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Feb2025 20:19:32.373] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[05Feb2025 20:19:32.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[05Feb2025 20:19:32.409] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[05Feb2025 20:19:32.414] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[05Feb2025 20:19:32.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[05Feb2025 20:19:32.446] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[05Feb2025 20:19:32.448] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[05Feb2025 20:19:32.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[05Feb2025 20:19:32.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
-[05Feb2025 20:19:32.669] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2935 advancements
-[05Feb2025 20:19:32.675] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[05Feb2025 20:19:32.677] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[05Feb2025 20:19:32.677] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[05Feb2025 20:19:32.678] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[05Feb2025 20:19:32.694] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[05Feb2025 20:19:32.697] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[05Feb2025 20:19:32.697] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[05Feb2025 20:19:32.698] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[05Feb2025 20:19:32.706] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[05Feb2025 20:19:32.730] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[05Feb2025 20:19:32.739] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[05Feb2025 20:19:35.910] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[05Feb2025 20:19:36.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Feb2025 20:19:36.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Feb2025 20:19:36.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Feb2025 20:19:36.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Feb2025 20:19:36.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Feb2025 20:19:36.217] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Feb2025 20:19:36.311] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Feb2025 20:19:36.311] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Feb2025 20:19:36.312] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Feb2025 20:19:36.312] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Feb2025 20:19:36.330] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Feb2025 20:19:36.557] [Server thread/INFO] [Framework/]: Loading server configs...
-[05Feb2025 20:19:36.568] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Feb2025 20:19:37.162] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Feb2025 20:19:37.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Feb2025 20:19:45.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Feb2025 20:19:46.587] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[05Feb2025 20:19:47.526] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[05Feb2025 20:19:49.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.643] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.743] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.773] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.786] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.813] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.849] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:49.880] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:50.252] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:50.754] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 20:19:51.254] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[05Feb2025 20:19:51.747] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[05Feb2025 20:19:52.303] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7057 ms
-[05Feb2025 20:19:52.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.976s)! For help, type "help"
-[05Feb2025 20:19:52.363] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Feb2025 20:19:52.441] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[05Feb2025 20:19:52.451] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[05Feb2025 20:19:52.504] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[05Feb2025 20:19:52.504] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[05Feb2025 20:19:52.505] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[05Feb2025 20:19:52.505] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[05Feb2025 20:19:52.627] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 58787 bytes (in 6 string chunks with the size of 10000)
-[05Feb2025 20:20:24.744] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
-[05Feb2025 20:20:24.745] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[05Feb2025 20:20:24.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8c79960[id=<null>,name=xS3b4lx,properties={},legacy=false] (/100.125.15.17:56686) lost connection: Connection closed - mismatched mod channel list
-[05Feb2025 20:20:56.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2afd0d8b[id=<null>,name=xS3b4lx,properties={},legacy=false] (/100.125.15.17:56689) lost connection: Disconnected
-[05Feb2025 20:21:01.683] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
-[05Feb2025 20:21:01.683] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[05Feb2025 20:21:01.686] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3023817d[id=<null>,name=xS3b4lx,properties={},legacy=false] (/100.125.15.17:56692) lost connection: Connection closed - mismatched mod channel list
-[05Feb2025 20:22:09.546] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[05Feb2025 20:22:09.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xS3b4lx[/100.125.15.17:56725] logged in with entity id 61 at (-860.6295967773441, 113.0, 1239.2785954879766)
-[05Feb2025 20:22:09.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xS3b4lx
-[05Feb2025 20:22:09.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xS3b4lx
-[05Feb2025 20:22:09.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xS3b4lx
-[05Feb2025 20:22:09.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xS3b4lx
-[05Feb2025 20:22:09.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xS3b4lx
-[05Feb2025 20:22:09.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xS3b4lx
-[05Feb2025 20:22:09.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xS3b4lx
-[05Feb2025 20:22:09.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx joined the game
-[05Feb2025 20:22:09.792] [Server thread/INFO] [Jade/]: Syncing config to xS3b4lx (4b222176-4efe-30ce-be77-65880c59d47b)
-[05Feb2025 20:22:12.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
-[05Feb2025 20:26:22.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Stone Age]
-[05Feb2025 20:29:13.703] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
-[05Feb2025 20:29:13.704] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[05Feb2025 20:29:13.766] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18acc942[id=<null>,name=pitoflacido.com,properties={},legacy=false] (/100.68.109.63:49491) lost connection: Connection closed - mismatched mod channel list
-[05Feb2025 20:32:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Acquire Hardware]
-[05Feb2025 20:34:20.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Sweet Dreams]
-[05Feb2025 20:49:52.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:52337] logged in with entity id 7380 at (-845.9988850352586, 103.0, 1286.4183101508747)
-[05Feb2025 20:49:52.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
-[05Feb2025 20:49:52.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
-[05Feb2025 20:49:52.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
-[05Feb2025 20:49:52.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
-[05Feb2025 20:49:52.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
-[05Feb2025 20:49:52.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
-[05Feb2025 20:49:52.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
-[05Feb2025 20:49:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
-[05Feb2025 20:49:52.755] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
-[05Feb2025 20:53:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> ni se te ocurra
-[05Feb2025 20:54:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> me queres ayudar?
-[05Feb2025 20:54:34.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> necesito mano de obra
-[05Feb2025 21:01:11.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> dormi
-[05Feb2025 21:01:55.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:56.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> zz
-[05Feb2025 21:01:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> zz
-[05Feb2025 21:01:57.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:58.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:59.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:59.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:59.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:01:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:00.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:01.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:01.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:01.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:01.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:01.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:02.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:02.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:02.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:03.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:04.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> z
-[05Feb2025 21:02:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported pitoflacido.com to xS3b4lx]
-[05Feb2025 21:02:33.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:59204] logged in with entity id 10371 at (-861.8062774612346, 111.0, 1226.1856427527016)
-[05Feb2025 21:02:33.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
-[05Feb2025 21:02:33.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
-[05Feb2025 21:02:33.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
-[05Feb2025 21:02:33.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
-[05Feb2025 21:02:33.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
-[05Feb2025 21:02:33.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
-[05Feb2025 21:02:33.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
-[05Feb2025 21:02:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
-[05Feb2025 21:02:33.860] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
-[05Feb2025 21:08:16.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xS3b4lx lost connection: Disconnected
-[05Feb2025 21:08:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx left the game
-[05Feb2025 21:15:03.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:52381] logged in with entity id 15232 at (-853.7376338706146, 111.0, 1246.4090175966787)
-[05Feb2025 21:15:03.622] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
-[05Feb2025 21:15:03.622] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
-[05Feb2025 21:15:03.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
-[05Feb2025 21:15:03.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
-[05Feb2025 21:15:03.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
-[05Feb2025 21:15:03.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
-[05Feb2025 21:15:03.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
-[05Feb2025 21:15:03.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
-[05Feb2025 21:15:03.713] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
-[05Feb2025 21:15:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> yoo niiggi
-[05Feb2025 21:16:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> click derecho xd
-[05Feb2025 21:16:38.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> xd
-[05Feb2025 21:16:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> t metes al vc?
-[05Feb2025 21:17:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> ya estoy
-[05Feb2025 21:17:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> wa
-[05Feb2025 21:18:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> xd
-[05Feb2025 21:21:40.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> ¿qué pansó?
-[05Feb2025 21:21:50.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> nada
-[05Feb2025 21:23:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> ahi deje mi limosna en tu horno
-[05Feb2025 21:24:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> el maso sjdhsd
-[05Feb2025 21:24:19.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> q'
-[05Feb2025 21:24:32.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> nada.
-[05Feb2025 21:24:40.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> A
-[05Feb2025 21:27:20.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv fell from a high place
-[05Feb2025 21:27:52.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> quiero una tortuga ¿cómo la puedo secuestrar?
-[05Feb2025 21:28:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv fell from a high place
-[05Feb2025 21:29:34.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to pitoflacido.com]
-[05Feb2025 21:29:50.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
-[05Feb2025 21:29:50.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
-[05Feb2025 21:30:11.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:53654] logged in with entity id 18319 at (-846.4509812397084, 108.0, 1283.5626457952958)
-[05Feb2025 21:30:11.457] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
-[05Feb2025 21:30:11.458] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
-[05Feb2025 21:30:11.458] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
-[05Feb2025 21:30:11.458] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
-[05Feb2025 21:30:11.460] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
-[05Feb2025 21:30:11.462] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
-[05Feb2025 21:30:11.463] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
-[05Feb2025 21:30:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
-[05Feb2025 21:30:11.544] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
-[05Feb2025 21:30:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to pitoflacido.com]
-[05Feb2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Speed to Ghosty_X4]
-[05Feb2025 21:32:06.896] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8dbd411[id=<null>,name=xS3b4lx,properties={},legacy=false] (/100.125.15.17:57265) lost connection: Disconnected
-[05Feb2025 21:32:13.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xS3b4lx[/100.125.15.17:57271] logged in with entity id 18723 at (-856.7168122679584, 111.0, 1228.3625540316784)
-[05Feb2025 21:32:13.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xS3b4lx
-[05Feb2025 21:32:13.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xS3b4lx
-[05Feb2025 21:32:13.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xS3b4lx
-[05Feb2025 21:32:13.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xS3b4lx
-[05Feb2025 21:32:13.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xS3b4lx
-[05Feb2025 21:32:13.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xS3b4lx
-[05Feb2025 21:32:13.910] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xS3b4lx
-[05Feb2025 21:32:13.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx joined the game
-[05Feb2025 21:32:13.984] [Server thread/INFO] [Jade/]: Syncing config to xS3b4lx (4b222176-4efe-30ce-be77-65880c59d47b)
-[05Feb2025 21:33:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Speed to xS3b4lx]
-[05Feb2025 21:33:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Removed every effect from xS3b4lx]
-[05Feb2025 21:33:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> gronce de mrda
-[05Feb2025 21:33:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> JAJAJAAJA
-[05Feb2025 21:34:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Applied effect Nausea to pitoflacido.com]
-[05Feb2025 21:37:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> cacho peces illo
-[05Feb2025 21:38:50.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv has made the advancement [Straddle My Ol' Saddle]
-[05Feb2025 21:40:30.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com has made the advancement [Take Aim]
-[05Feb2025 21:40:31.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[05Feb2025 21:40:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Take Aim]
-[05Feb2025 21:40:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> ¿pega?
-[05Feb2025 21:40:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> nop
-[05Feb2025 21:40:51.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> el mio pega?
-[05Feb2025 21:41:01.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> mira ponte aqui
-[05Feb2025 21:41:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> sisi
-[05Feb2025 21:41:02.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[05Feb2025 21:41:29.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[05Feb2025 21:41:30.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> pense que te iba a lanzar mas lejos
-[05Feb2025 21:41:37.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=95, z=81} BlockPos{x=-30, y=94, z=81}
-[05Feb2025 21:41:44.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> cuanto me das por el arco?
-[05Feb2025 21:41:46.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[05Feb2025 21:41:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Monster Hunter]
-[05Feb2025 21:42:19.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[05Feb2025 21:42:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> ¿me ayudas a juntar tronco rosa?
-[05Feb2025 21:42:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> ese no...
-[05Feb2025 21:42:44.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[05Feb2025 21:43:07.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> no crecen si estan juntos.
-[05Feb2025 21:43:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> pensé que no
-[05Feb2025 21:43:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> pensaste mal
-[05Feb2025 21:43:25.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> que necesitas?
-[05Feb2025 21:44:41.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> tronco roda y ¿viste las hojas del arbol de cerezo, necesito eso pero no tipo suelto, si mo en cubo
-[05Feb2025 21:44:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> no se como explicarme
-[05Feb2025 21:45:08.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> eso
-[05Feb2025 21:45:47.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=88, z=90} BlockPos{x=-47, y=89, z=91}
-[05Feb2025 21:45:51.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-818, y=102, z=1023} BlockPos{x=-819, y=101, z=1022}
-[05Feb2025 21:45:51.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-818, y=102, z=1023} BlockPos{x=-819, y=101, z=1022}
-[05Feb2025 21:47:56.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to pitoflacido.com]
-[05Feb2025 21:48:16.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> gracias
-[05Feb2025 21:48:28.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> que gracias prepara el qlo
-[05Feb2025 21:48:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> dea
-[05Feb2025 21:49:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
-[05Feb2025 21:49:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pitoflacido.com> pero
-[05Feb2025 21:50:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to alaresttv]
-[05Feb2025 21:53:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alaresttv: Teleported alaresttv to pitoflacido.com]
-[05Feb2025 21:54:37.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
-[05Feb2025 21:54:37.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game
-[05Feb2025 21:54:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> que hiciste
-[05Feb2025 21:55:57.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maaxz_dou[/100.99.176.124:63990] logged in with entity id 39393 at (-877.5688092134891, 111.0, 1255.300000011921)
-[05Feb2025 21:55:57.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maaxz_dou
-[05Feb2025 21:55:57.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maaxz_dou
-[05Feb2025 21:55:57.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maaxz_dou
-[05Feb2025 21:55:57.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maaxz_dou
-[05Feb2025 21:55:57.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maaxz_dou
-[05Feb2025 21:55:57.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maaxz_dou
-[05Feb2025 21:55:57.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maaxz_dou
-[05Feb2025 21:55:57.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maaxz_dou joined the game
-[05Feb2025 21:55:57.552] [Server thread/INFO] [Jade/]: Syncing config to Maaxz_dou (b29d52d7-4387-3f36-b2f7-5374273ee356)
-[05Feb2025 22:01:46.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to pitoflacido.com]
-[05Feb2025 22:01:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 has made the advancement [Who is Cutting Onions?]
-[05Feb2025 22:06:43.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported Ghosty_X4 to xS3b4lx]
-[05Feb2025 22:07:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to xS3b4lx]
-[05Feb2025 22:08:03.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
-[05Feb2025 22:09:22.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maaxz_dou: Teleported Maaxz_dou to xS3b4lx]
+[02Mar2025 01:43:21.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[02Mar2025 01:43:21.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[02Mar2025 01:43:21.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Starting version check at http://changelogs.moddinglegacy.com/lucent.json
+[02Mar2025 01:43:21.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Found status: BETA Current: 1.5.5 Target: null
+[02Mar2025 01:43:21.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Starting version check at https://assets.melanx.de/updates/simply-tools.json
+[02Mar2025 01:43:21.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Found status: UP_TO_DATE Current: 1.20.1-2.0.8 Target: null
+[02Mar2025 01:43:21.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[02Mar2025 01:43:22.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[02Mar2025 01:43:22.173] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[02Mar2025 01:43:22.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Mar2025 01:43:22.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Mar2025 01:43:22.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Mar2025 01:43:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Mar2025 01:43:22.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Mar2025 01:43:22.507] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Mar2025 01:43:22.591] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Mar2025 01:43:22.591] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Mar2025 01:43:22.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Mar2025 01:43:22.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Mar2025 01:43:22.613] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Mar2025 01:43:22.613] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Mar2025 01:43:22.614] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Mar2025 01:43:22.778] [Server thread/INFO] [Framework/]: Loading server configs...
+[02Mar2025 01:43:23.273] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Mar2025 01:43:23.274] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Mar2025 01:43:23.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Mar2025 01:43:29.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Mar2025 01:43:33.174] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.197] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.217] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.230] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.254] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.280] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:33.730] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:34.226] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 01:43:34.726] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[02Mar2025 01:43:35.211] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5485 ms
+[02Mar2025 01:43:35.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.604s)! For help, type "help"
+[02Mar2025 01:43:35.262] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Mar2025 01:43:35.310] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[02Mar2025 01:43:35.318] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[02Mar2025 01:43:35.380] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[02Mar2025 01:43:35.380] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[02Mar2025 01:43:35.381] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[02Mar2025 01:43:35.381] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[02Mar2025 01:43:35.583] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 58787 bytes (in 6 string chunks with the size of 10000)
+[02Mar2025 01:43:44.905] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Mar2025 01:43:44.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xS3b4lx[/100.125.15.17:54251] logged in with entity id 62 at (-2584.300000011921, 64.0, 6740.806485026454)
+[02Mar2025 01:43:44.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xS3b4lx
+[02Mar2025 01:43:44.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xS3b4lx
+[02Mar2025 01:43:44.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xS3b4lx
+[02Mar2025 01:43:44.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xS3b4lx
+[02Mar2025 01:43:45.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xS3b4lx
+[02Mar2025 01:43:45.014] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xS3b4lx
+[02Mar2025 01:43:45.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xS3b4lx
+[02Mar2025 01:43:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx joined the game
+[02Mar2025 01:43:45.170] [Server thread/INFO] [Jade/]: Syncing config to xS3b4lx (4b222176-4efe-30ce-be77-65880c59d47b)
+[02Mar2025 01:43:47.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[02Mar2025 01:43:47.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghosty_X4[/100.114.221.40:54535] logged in with entity id 92 at (-859.0255185669541, 111.0, 1243.1453099050086)
+[02Mar2025 01:43:47.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ghosty_X4
+[02Mar2025 01:43:47.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ghosty_X4
+[02Mar2025 01:43:47.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ghosty_X4
+[02Mar2025 01:43:47.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ghosty_X4
+[02Mar2025 01:43:47.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ghosty_X4
+[02Mar2025 01:43:47.631] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ghosty_X4
+[02Mar2025 01:43:47.631] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
+[02Mar2025 01:43:47.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
+[02Mar2025 01:43:47.689] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[02Mar2025 01:44:43.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitoflacido.com[/100.68.109.63:50268] logged in with entity id 949 at (-2588.205482398734, 64.0, 6740.2189009104995)
+[02Mar2025 01:44:43.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to pitoflacido.com
+[02Mar2025 01:44:43.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to pitoflacido.com
+[02Mar2025 01:44:43.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to pitoflacido.com
+[02Mar2025 01:44:43.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to pitoflacido.com
+[02Mar2025 01:44:43.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to pitoflacido.com
+[02Mar2025 01:44:43.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to pitoflacido.com
+[02Mar2025 01:44:43.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to pitoflacido.com
+[02Mar2025 01:44:43.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com joined the game
+[02Mar2025 01:44:43.677] [Server thread/INFO] [Jade/]: Syncing config to pitoflacido.com (26f4980d-e12d-3ada-bca8-5b6231411857)
+[02Mar2025 01:45:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported pitoflacido.com to xS3b4lx]
+[02Mar2025 01:45:10.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported Ghosty_X4 to xS3b4lx]
+[02Mar2025 01:46:02.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was slain by Kobolediator
+[02Mar2025 01:46:46.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to pitoflacido.com]
+[02Mar2025 01:49:29.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to Ghosty_X4]
+[02Mar2025 01:49:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported pitoflacido.com to xS3b4lx]
+[02Mar2025 01:50:11.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alaresttv[/100.123.205.66:53308] logged in with entity id 3543 at (-2570.3544860751917, 64.0, 6740.571717657903)
+[02Mar2025 01:50:11.585] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to alaresttv
+[02Mar2025 01:50:11.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to alaresttv
+[02Mar2025 01:50:11.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to alaresttv
+[02Mar2025 01:50:11.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to alaresttv
+[02Mar2025 01:50:11.589] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to alaresttv
+[02Mar2025 01:50:11.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to alaresttv
+[02Mar2025 01:50:11.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to alaresttv
+[02Mar2025 01:50:11.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv joined the game
+[02Mar2025 01:50:11.620] [Server thread/INFO] [Jade/]: Syncing config to alaresttv (d218ad1f-ef91-3f85-9420-332d1b8a45c5)
+[02Mar2025 01:50:39.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported alaresttv to xS3b4lx]
+[02Mar2025 01:50:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> vaya
+[02Mar2025 01:51:24.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alaresttv> mmm bueno luego entro d nuevo si eso
+[02Mar2025 01:51:26.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alaresttv lost connection: Disconnected
+[02Mar2025 01:51:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alaresttv left the game

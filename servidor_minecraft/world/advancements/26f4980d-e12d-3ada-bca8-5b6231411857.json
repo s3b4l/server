@@ -34,7 +34,9 @@
       "minecraft:cold_ocean": "2025-02-02 21:28:15 +0000",
       "minecraft:forest": "2025-02-02 21:10:36 +0000",
       "minecraft:deep_cold_ocean": "2025-02-02 22:06:02 +0000",
+      "minecraft:desert": "2025-02-05 22:19:28 +0000",
       "minecraft:ocean": "2025-02-02 22:07:15 +0000",
+      "minecraft:warm_ocean": "2025-02-05 22:19:06 +0000",
       "minecraft:flower_forest": "2025-02-05 21:25:15 +0000",
       "minecraft:meadow": "2025-02-04 20:15:59 +0000",
       "minecraft:plains": "2025-02-02 21:49:51 +0000"
@@ -646,6 +648,7 @@
     "criteria": {
       "cooked_mutton": "2025-02-02 21:24:59 +0000",
       "cooked_beef": "2025-02-02 21:47:48 +0000",
+      "baked_potato": "2025-03-02 01:47:25 +0000",
       "pumpkin_pie": "2025-02-02 22:02:00 +0000",
       "bread": "2025-02-02 22:05:08 +0000",
       "cooked_salmon": "2025-02-02 21:33:08 +0000"
@@ -2420,21 +2423,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-05 22:01:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-05 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-02-05 21:53:08 +0000"
     },
     "done": true
   },
@@ -2444,9 +2435,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_oxeye_daisy": "2025-02-05 21:54:40 +0000"
+      "has_poppy": "2025-02-05 21:53:08 +0000"
     },
     "done": true
   },
@@ -2456,15 +2447,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-05 21:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-05 21:54:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 22:01:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-02-05 22:01:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-02-05 22:19:06 +0000"
     },
     "done": true
   },
