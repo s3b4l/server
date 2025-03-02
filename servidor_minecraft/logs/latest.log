@@ -301,3 +301,5 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [02Mar2025 02:29:06.788] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
 [02Mar2025 02:29:33.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitoflacido.com lost connection: Disconnected
 [02Mar2025 02:29:33.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitoflacido.com left the game
+[02Mar2025 02:39:15.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[02Mar2025 02:39:15.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
