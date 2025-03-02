@@ -3642,9 +3642,21 @@
     },
     "done": true
   },
+  "simplytools:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_item1": "2025-03-02 02:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-02 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_item1": "2025-03-02 02:05:55 +0000"
     },
     "done": true
   },

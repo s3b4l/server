@@ -1322,6 +1322,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-03-02 01:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-03-02 02:03:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-02 01:45:39 +0000"
@@ -1337,6 +1349,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-03-02 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-03-02 01:58:53 +0000"
     },
     "done": true
   },
@@ -1412,9 +1430,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-02 02:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-03-02 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 01:58:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-03-02 01:58:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-03-02 01:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 01:58:53 +0000"
     },
     "done": true
   },
