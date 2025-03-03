@@ -242,3 +242,28 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Mar2025 22:22:26.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ghosty_X4
 [03Mar2025 22:22:26.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 joined the game
 [03Mar2025 22:22:26.233] [Server thread/INFO] [Jade/]: Syncing config to Ghosty_X4 (d2761ad5-330f-3236-8fd1-4b1129e16acb)
+[03Mar2025 22:23:44.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
+[03Mar2025 22:23:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> que onda
+[03Mar2025 22:24:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghosty_X4> ven discord
+[03Mar2025 22:24:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> voy
+[03Mar2025 22:30:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 was doomed to fall by Creeper
+[03Mar2025 22:30:20.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
+[03Mar2025 22:32:43.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrMidnight[/100.90.233.28:55943] logged in with entity id 6890 at (-40.5, 74.0, -0.5)
+[03Mar2025 22:32:43.068] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SrMidnight
+[03Mar2025 22:32:43.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SrMidnight
+[03Mar2025 22:32:43.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SrMidnight
+[03Mar2025 22:32:43.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SrMidnight
+[03Mar2025 22:32:43.072] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SrMidnight
+[03Mar2025 22:32:43.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SrMidnight
+[03Mar2025 22:32:43.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SrMidnight
+[03Mar2025 22:32:43.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight joined the game
+[03Mar2025 22:32:43.120] [Server thread/INFO] [Jade/]: Syncing config to SrMidnight (e48da1d5-8970-313b-aa80-7142fb2972e0)
+[03Mar2025 22:34:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Alex's Mobs]
+[03Mar2025 22:34:30.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to SrMidnight]
+[03Mar2025 22:34:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported SrMidnight to xS3b4lx]
+[03Mar2025 22:35:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
+[03Mar2025 22:35:23.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMidnight moved too quickly! -10.026458231230322,1.2491870787446828,-0.893040075072804
+[03Mar2025 22:35:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Diamonds!]
+[03Mar2025 22:37:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Stone Age]
+[03Mar2025 22:40:25.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMidnight moved too quickly! -7.506705911866561,-1.0,6.632302576590519
+[03Mar2025 22:42:36.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMidnight moved too quickly! 6.593460304636665,4.753199980521202,6.076078879763827
