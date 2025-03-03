@@ -281,3 +281,19 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Mar2025 22:48:33.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=79, z=-8}
 [03Mar2025 22:48:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported SrMidnight to xS3b4lx]
 [03Mar2025 22:48:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Sweet Dreams]
+[03Mar2025 22:58:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Pic-A-Nic Basket?]
+[03Mar2025 22:59:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
+[03Mar2025 23:01:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
+[03Mar2025 23:02:57.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrMidnight> R.E.P.O
+[03Mar2025 23:03:24.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to Ghosty_X4]
+[03Mar2025 23:03:38.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Made SrMidnight a server operator]
+[03Mar2025 23:09:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to SrMidnight]
+[03Mar2025 23:10:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghosty_X4: Teleported Ghosty_X4 to xS3b4lx]
+[03Mar2025 23:10:21.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghosty_X4 lost connection: Disconnected
+[03Mar2025 23:10:21.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghosty_X4 left the game
+[03Mar2025 23:12:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> estan hablando aca al lado mio ahora me desmuteo
+[03Mar2025 23:18:07.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xS3b4lx> cayo gente a mi casa asi que me retiro
+[03Mar2025 23:20:38.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xS3b4lx lost connection: Disconnected
+[03Mar2025 23:20:38.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx left the game
+[03Mar2025 23:23:56.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-457, y=122, z=880} BlockPos{x=-456, y=121, z=880}
+[03Mar2025 23:23:56.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-456, y=122, z=880} BlockPos{x=-456, y=121, z=880}

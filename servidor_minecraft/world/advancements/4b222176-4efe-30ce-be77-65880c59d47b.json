@@ -1144,6 +1144,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-03 23:05:57 +0000",
       "minecraft:spider": "2025-02-05 22:01:24 +0000",
       "minecraft:silverfish": "2025-03-03 22:17:50 +0000",
       "minecraft:zombie": "2025-02-05 21:41:50 +0000"
@@ -1801,6 +1802,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-03 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-03 22:58:19 +0000"
     },
     "done": true
   },

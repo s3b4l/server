@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-03 22:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-03 22:37:36 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-03 22:35:33 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-03-03 22:51:40 +0000"
     },
     "done": true
   },
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-03 22:35:33 +0000"
@@ -155,9 +173,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-03 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-03-03 22:54:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-03-03 22:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
     },
     "done": true
   },
@@ -179,9 +221,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 22:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 22:54:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-03-03 22:54:03 +0000"
     },
     "done": true
   },
@@ -239,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-03 22:51:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:39 +0000"
@@ -254,6 +320,12 @@
   "simplytools:recipes/tools/diamond_excavator": {
     "criteria": {
       "criterion1": "2025-03-03 22:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
     },
     "done": true
   },
@@ -305,6 +377,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-03 23:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 22:54:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:39 +0000"
@@ -329,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-03 23:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-03 22:34:30 +0000"
@@ -338,6 +434,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 22:51:40 +0000"
     },
     "done": true
   },
@@ -353,9 +455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-03 22:53:51 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/netherite_hammer": {
     "criteria": {
       "criterion1": "2025-03-03 22:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-03-03 22:54:03 +0000"
     },
     "done": true
   },
@@ -545,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-03 22:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-03 22:37:20 +0000"
@@ -572,6 +692,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-03-03 22:37:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-03 22:53:42 +0000"
     },
     "done": true
   },
@@ -659,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-03 22:41:05 +0000"
@@ -677,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-03 22:41:14 +0000"
@@ -692,11 +830,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-03 22:32:44 +0000",
+      "minecraft:cherry_grove": "2025-03-03 22:51:28 +0000",
       "minecraft:sunflower_plains": "2025-03-03 22:34:42 +0000",
       "minecraft:beach": "2025-03-03 22:44:40 +0000",
       "minecraft:river": "2025-03-03 22:36:39 +0000",
       "minecraft:stony_shore": "2025-03-03 22:34:14 +0000",
       "minecraft:forest": "2025-03-03 22:34:11 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-03 23:04:45 +0000",
       "minecraft:meadow": "2025-03-03 22:47:21 +0000",
       "minecraft:plains": "2025-03-03 22:36:31 +0000"
     },
@@ -726,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-03 22:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-03 22:41:14 +0000"
@@ -740,7 +886,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-03-03 22:44:11 +0000"
+      "apple": "2025-03-03 22:44:11 +0000",
+      "bread": "2025-03-03 23:13:13 +0000",
+      "rotten_flesh": "2025-03-03 23:13:28 +0000"
     },
     "done": false
   },
@@ -771,6 +919,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-03 22:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-03 23:10:22 +0000"
     },
     "done": true
   },
