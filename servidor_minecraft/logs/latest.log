@@ -267,3 +267,17 @@ Caused by: java.nio.channels.UnresolvedAddressException
 [03Mar2025 22:37:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Stone Age]
 [03Mar2025 22:40:25.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMidnight moved too quickly! -7.506705911866561,-1.0,6.632302576590519
 [03Mar2025 22:42:36.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMidnight moved too quickly! 6.593460304636665,4.753199980521202,6.076078879763827
+[03Mar2025 22:44:39.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMidnight moved too quickly! -8.344948038904931,0.0,-5.533456290805361
+[03Mar2025 22:45:18.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xS3b4lx has made the advancement [Diamonds!]
+[03Mar2025 22:45:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to SrMidnight]
+[03Mar2025 22:47:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported xS3b4lx to Ghosty_X4]
+[03Mar2025 22:47:54.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Monster Hunter]
+[03Mar2025 22:47:57.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight was blown up by Creeper
+[03Mar2025 22:48:12.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=76, z=-8}
+[03Mar2025 22:48:23.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=79, z=-7}
+[03Mar2025 22:48:23.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=78, z=-7}
+[03Mar2025 22:48:33.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=78, z=-7}
+[03Mar2025 22:48:33.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=79, z=-7}
+[03Mar2025 22:48:33.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=79, z=-8}
+[03Mar2025 22:48:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xS3b4lx: Teleported SrMidnight to xS3b4lx]
+[03Mar2025 22:48:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrMidnight has made the advancement [Sweet Dreams]
